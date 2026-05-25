@@ -1,0 +1,261 @@
+{
+  "name": "Zelda Triforce Showdown",
+  "menuBackgroundImage": "https://assets.zyrosite.com/YBg7Z09JL5UVDqrb/f187e2b1-8043-46d1-b0eb-36a2cb78a2d1-cXgYRqIcQM4q6WCU.png",
+  "defaultRessources": {
+    "backgrounds": [
+      "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/OTHERS/Playmat_01.jpg?raw=true",
+      "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/OTHERS/Playmat_02.jpg?raw=true",
+      "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/OTHERS/Playmat_03.jpg?raw=true",
+      "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/OTHERS/Playmat_04.jpg?raw=true"
+    ],
+    "decksUrl": ""
+  },
+  "customHelp": "",
+  "cardRotation": 45,
+  "cards": {
+    "dataUrl": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/GameFiles/CardList%20(1).json",
+    "cardBack": ""
+  },
+  "deckBuilding": {
+    "mainFilters": [
+      "Main Deck",
+      "Triforce",
+      "Hero Deck",
+      "Deck Sanctuaire",
+      "Deck Divinite"
+    ],
+    "formats": []
+  },
+  "gameplay": {
+    "BaseGame": {
+      "mulligan": {
+        "info": "Classic",
+        "startingHandSize": "5",
+        "drawNewHand": false,
+        "putSelectionAtBottom": false,
+        "drawNewSelectedCards": true
+      },
+      "newTurn": {
+        "drawOnStart": false,
+        "sharedTurn": false,
+        "firstPlayerTokenName": "",
+        "drawPerTurn": 1
+      },
+      "defaultNotes": "",
+      "tokens": [
+        {
+          "name": "Korogu",
+          "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/OTHERS/TOKEN_Korogu.png?raw=true",
+          "isUnique": false,
+          "leavesAtEndOfTurn": false
+        }
+      ],
+      "countersStartingValues": [
+        "1"
+      ],
+      "hideFacedDownCards": false,
+      "sections": {
+        "customSections": [
+          "Terrain",
+          "Sanctuaires",
+          "Heros",
+          "Triforce - Courage",
+          "Triforce - Sagesse",
+          "Triforce - Force",
+          "Creature Divine",
+          "Deck Sanctuaire"
+        ],
+        "layout": {
+          "direction": "column",
+          "isSymetricalForOpponents": false,
+          "content": [
+            {
+              "direction": "row",
+              "style": false,
+              "content": [
+                {
+                  "section": "Terrain",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "row",
+              "style": false,
+              "content": [
+                {
+                  "direction": "row",
+                  "style": false,
+                  "content": [
+                    {
+                      "section": "Triforce - Courage",
+                      "style": false
+                    },
+                    {
+                      "section": "Triforce - Sagesse",
+                      "style": false
+                    },
+                    {
+                      "section": "Triforce - Force",
+                      "style": false
+                    },
+                    {
+                      "section": "Deck Sanctuaire",
+                      "style": false
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
+                },
+                {
+                  "section": "Sanctuaires",
+                  "style": false
+                },
+                {
+                  "direction": "row",
+                  "style": false,
+                  "content": [
+                    {
+                      "section": "Creature Divine",
+                      "style": false
+                    },
+                    {
+                      "section": "Heros",
+                      "style": false
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
+                }
+              ],
+              "isSymetricalForOpponents": false
+            }
+          ]
+        },
+        "categoriesAlreadyOnBoard": [
+          "Deck Sanctuaire",
+          "Creature Divine",
+          "Triforce - Courage",
+          "Triforce - Sagesse",
+          "Triforce - Courage",
+          "Heros"
+        ],
+        "autoPlayFromHand": {},
+        "autoPlayFromStack": {},
+        "sectionsDict": {
+          "Heros": {
+            "title": "Heros",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": true,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Heros",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Sanctuaires": {
+            "title": "Sanctuaires",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Sanctuaires",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Deck Sanctuaire": {
+            "title": "Deck Sanctuaire",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Deck Sanctuaire",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Creature Divine": {
+            "title": "Creature Divine",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Creature Divine",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Triforce - Force": {
+            "title": "Triforce - Force",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Triforce - Sagesse": {
+            "title": "Triforce - Sagesse",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Triforce - Courage": {
+            "title": "Triforce - Courage",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          }
+        }
+      }
+    }
+  }
+}
