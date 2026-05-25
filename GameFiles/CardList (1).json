@@ -1,0 +1,82 @@
+{
+  "1": {
+    "id": "1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Link",
+        "type": "Main Deck",
+        "cost": 0,
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/2.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Link",
+    "type": false,
+    "cost": 0
+  },
+  "2": {
+    "id": "2",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Triforce",
+        "type": "Triforce",
+        "cost": 0,
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/Zelda%20Triforce%20Showdown%20-%20Cartes%20Impression%20Gerudo%20-%204.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Triforce",
+    "type": false,
+    "cost": 0
+  },
+  "3": {
+    "id": "3",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sidon",
+        "type": "Hero Deck",
+        "cost": 0,
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/30.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sidon",
+    "type": false,
+    "cost": 0
+  },
+  "4": {
+    "id": "4",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sanctuaire Zora",
+        "type": "Deck Sanctuaire",
+        "cost": 0,
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/9.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sanctuaire",
+    "type": false,
+    "cost": 0
+  },
+  "5": {
+    "id": "5",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vah Ruta",
+        "type": "Deck Divinite",
+        "cost": 0,
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/31.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vah'Ruta",
+    "type": false,
+    "cost": 0
+  }
+}
