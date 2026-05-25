@@ -14,7 +14,7 @@
   "cardRotation": 45,
   "cards": {
     "dataUrl": "https://mik0ia.github.io/Zelda-Triforce-Showdown/GameFiles/CardList.json",
-    "cardBack": ""
+    "cardBack": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/OTHERS/CardBack.png?raw=true"
   },
   "deckBuilding": {
     "mainFilters": [
