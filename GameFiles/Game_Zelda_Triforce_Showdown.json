@@ -77,7 +77,7 @@
     "BaseGame": {
       "mulligan": {
         "info": "Classic",
-        "startingHandSize": "3",
+        "startingHandSize": "5",
         "drawNewHand": false,
         "putSelectionAtBottom": false,
         "drawNewSelectedCards": true
