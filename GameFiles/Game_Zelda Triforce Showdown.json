@@ -13,7 +13,7 @@
   "customHelp": "",
   "cardRotation": 45,
   "cards": {
-    "dataUrl": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/GameFiles/CardList%20(1).json",
+    "dataUrl": "https://mik0ia.github.io/Zelda-Triforce-Showdown/GameFiles/CardList.json",
     "cardBack": ""
   },
   "deckBuilding": {
@@ -24,7 +24,42 @@
       "Deck Sanctuaire",
       "Deck Divinite"
     ],
-    "formats": []
+    "formats": [
+      {
+        "title": "BaseGame",
+        "gameplay": "BaseGame",
+        "deckConstraints": {
+          "main": {
+            "min": 45,
+            "max": 45
+          }
+        },
+        "customCategories": [
+          "Deck Sanctuaire",
+          "Creature Divine",
+          "Hero Deck",
+          "Triforce"
+        ],
+        "customCategoriesConstraints": {
+          "Deck Sanctuaire": {
+            "min": 12,
+            "max": 12
+          },
+          "Creature Divine": {
+            "min": 1,
+            "max": 1
+          },
+          "Hero Deck": {
+            "min": 2,
+            "max": 2
+          },
+          "Triforce": {
+            "min": 3,
+            "max": 3
+          }
+        }
+      }
+    ]
   },
   "gameplay": {
     "BaseGame": {
@@ -136,7 +171,7 @@
           "Creature Divine",
           "Triforce - Courage",
           "Triforce - Sagesse",
-          "Triforce - Courage",
+          "Triforce - Force",
           "Heros"
         ],
         "autoPlayFromHand": {},
