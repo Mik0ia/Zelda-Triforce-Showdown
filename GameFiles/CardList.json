@@ -12,7 +12,7 @@
       }
     },
     "name": "Link",
-    "type": false,
+    "type": "Main Deck",
     "cost": 0
   },
   "2": {
@@ -20,15 +20,15 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Triforce",
-        "type": "Triforce",
+        "name": "Triforce du Courage",
+        "type": "Triforce - Courage",
         "cost": 0,
         "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/Zelda%20Triforce%20Showdown%20-%20Cartes%20Impression%20Gerudo%20-%204.jpg?raw=true",
         "isHorizontal": false
       }
     },
-    "name": "Triforce",
-    "type": false,
+    "name": "Triforce du Courage",
+    "type": "Triforce - Courage",
     "cost": 0
   },
   "3": {
@@ -44,7 +44,7 @@
       }
     },
     "name": "Sidon",
-    "type": false,
+    "type": "Hero Deck",
     "cost": 0
   },
   "4": {
@@ -59,8 +59,8 @@
         "isHorizontal": false
       }
     },
-    "name": "Sanctuaire",
-    "type": false,
+    "name": "Sanctuaire Zora",
+    "type": "Deck Sanctuaire",
     "cost": 0
   },
   "5": {
@@ -75,8 +75,40 @@
         "isHorizontal": false
       }
     },
-    "name": "Vah'Ruta",
-    "type": false,
+    "name": "Vah Ruta",
+    "type": "Deck Divinite",
+    "cost": 0
+  },
+  "6": {
+    "id": "6",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Triforce de la Sagesse",
+        "type": "Triforce - Sagesse",
+        "cost": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Triforce de la Sagesse",
+    "type": "Triforce - Sagesse",
+    "cost": 0
+  },
+  "7": {
+    "id": "7",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Triforce de la Force",
+        "type": "Triforce - Force",
+        "cost": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Triforce de la Force",
+    "type": "Triforce - Force",
     "cost": 0
   }
 }
