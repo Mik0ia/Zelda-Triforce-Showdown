@@ -10,18 +10,16 @@
     ],
     "decksUrl": ""
   },
-  "customHelp": "Seul le Main Deck se pioche. Les Héros, Triforces et Créature Divine sont placés face visible dans leurs zones. Le Deck Sanctuaire fonctionne comme un deck séparé.",
+  "customHelp": "",
   "cardRotation": 45,
   "cards": {
     "dataUrl": "https://mik0ia.github.io/Zelda-Triforce-Showdown/GameFiles/CardList.json",
-    "cardBack": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/OTHERS/CardBack.png?raw=true"
+    "cardBack": ""
   },
   "deckBuilding": {
     "mainFilters": [
       "Main Deck",
-      "Triforce - Courage",
-      "Triforce - Sagesse",
-      "Triforce - Force",
+      "Triforce",
       "Hero Deck",
       "Deck Sanctuaire",
       "Deck Divinite"
@@ -38,18 +36,16 @@
         },
         "customCategories": [
           "Deck Sanctuaire",
-          "Deck Divinite",
+          "Creature Divine",
           "Hero Deck",
-          "Triforce - Courage",
-          "Triforce - Sagesse",
-          "Triforce - Force"
+          "Triforce"
         ],
         "customCategoriesConstraints": {
           "Deck Sanctuaire": {
             "min": 12,
             "max": 12
           },
-          "Deck Divinite": {
+          "Creature Divine": {
             "min": 1,
             "max": 1
           },
@@ -57,17 +53,9 @@
             "min": 2,
             "max": 2
           },
-          "Triforce - Courage": {
-            "min": 1,
-            "max": 1
-          },
-          "Triforce - Sagesse": {
-            "min": 1,
-            "max": 1
-          },
-          "Triforce - Force": {
-            "min": 1,
-            "max": 1
+          "Triforce": {
+            "min": 3,
+            "max": 3
           }
         }
       }
@@ -118,16 +106,11 @@
           "content": [
             {
               "direction": "row",
-              "style": {
-                "width": "100%",
-                "minHeight": "10vh"
-              },
+              "style": false,
               "content": [
                 {
                   "section": "Terrain",
-                  "style": {
-                    "width": "100%"
-                  }
+                  "style": false
                 }
               ],
               "isSymetricalForOpponents": false
@@ -184,12 +167,12 @@
           ]
         },
         "categoriesAlreadyOnBoard": [
-          "Deck Divinite->Creature Divine",
-          "Hero Deck->Heros",
-          "Triforce - Courage->Triforce - Courage",
-          "Triforce - Sagesse->Triforce - Sagesse",
-          "Triforce - Force->Triforce - Force",
-          "Deck Sanctuaire->Deck Sanctuaire"
+          "Deck Sanctuaire",
+          "Creature Divine",
+          "Triforce - Courage",
+          "Triforce - Sagesse",
+          "Triforce - Force",
+          "Heros"
         ],
         "autoPlayFromHand": {},
         "autoPlayFromStack": {},
@@ -202,7 +185,7 @@
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
-            "displayedTitle": "Héros",
+            "displayedTitle": "Heros",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
@@ -230,17 +213,17 @@
             "title": "Deck Sanctuaire",
             "isHidden": "no",
             "height": "MEDIUM",
-            "alignment": "DECK",
+            "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
-            "isHorizontalAllowed": false,
+            "isHorizontalAllowed": true,
             "displayedTitle": "Deck Sanctuaire",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": true
+            "showHiddenCardInHistory": false
           },
           "Creature Divine": {
             "title": "Creature Divine",
@@ -250,7 +233,7 @@
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
-            "displayedTitle": "Créature Divine",
+            "displayedTitle": "Creature Divine",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
@@ -266,7 +249,7 @@
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
-            "displayedTitle": "Triforce de la Force",
+            "displayedTitle": "",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
@@ -282,7 +265,7 @@
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
-            "displayedTitle": "Triforce de la Sagesse",
+            "displayedTitle": "",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
@@ -298,23 +281,7 @@
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
-            "displayedTitle": "Triforce du Courage",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "enterSpun": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
-          },
-          "Terrain": {
-            "title": "Terrain",
-            "isHidden": "no",
-            "height": "MEDIUM",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Terrain",
+            "displayedTitle": "",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
