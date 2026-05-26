@@ -168,20 +168,14 @@
         },
         "categoriesAlreadyOnBoard": [
           "Deck Sanctuaire",
-          "Creature Divine",
+          "Hero Deck->Heros",
+          "Deck Divinite->Creature Divine",
           "Triforce - Courage",
           "Triforce - Sagesse",
-          "Triforce - Force",
-          "Heros"
+          "Triforce - Force"
         ],
-        "autoPlayFromHand": {
-          "Hero Deck": "Heros",
-          "Deck Divinite": "Creature Divine"
-        },
-        "autoPlayFromStack": {
-          "Hero Deck": "Heros",
-          "Deck Divinite": "Creature Divine"
-        },
+        "autoPlayFromHand": {},
+        "autoPlayFromStack": {},
         "sectionsDict": {
           "Terrain": {
             "title": "Terrain",
