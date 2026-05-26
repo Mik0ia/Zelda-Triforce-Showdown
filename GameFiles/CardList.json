@@ -941,4 +941,942 @@
   },
   "48": {
     "id": "48",
-    "isToken"
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Réceptacle de Coeur",
+        "type": "Main Deck",
+        "subTypes": "Soutien - Hylien / Réceptacle",
+        "cost": 6,
+        "power": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Réceptacle de Coeur",
+    "type": "Main Deck",
+    "subTypes": "Soutien - Hylien / Réceptacle",
+    "cost": 6,
+    "power": 0
+  },
+  "49": {
+    "id": "49",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mipha, Prodige Zora",
+        "type": "Hero Deck",
+        "subTypes": "Héros - Zora / Prodige",
+        "cost": 0,
+        "power": 13,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mipha, Prodige Zora",
+    "type": "Hero Deck",
+    "subTypes": "Héros - Zora / Prodige",
+    "cost": 0,
+    "power": 13
+  },
+  "50": {
+    "id": "50",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sidon, Sage de l'Eau",
+        "type": "Hero Deck",
+        "subTypes": "Héros - Zora / Sage",
+        "cost": 0,
+        "power": 14,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sidon, Sage de l'Eau",
+    "type": "Hero Deck",
+    "subTypes": "Héros - Zora / Sage",
+    "cost": 0,
+    "power": 14
+  },
+  "51": {
+    "id": "51",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vah'Ruta",
+        "type": "Deck Divinite",
+        "subTypes": "Créature Divine - Zora",
+        "cost": 0,
+        "power": 10,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vah'Ruta",
+    "type": "Deck Divinite",
+    "subTypes": "Créature Divine - Zora",
+    "cost": 0,
+    "power": 10
+  },
+  "52": {
+    "id": "52",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Daruk, Prodige Goron",
+        "type": "Hero Deck",
+        "subTypes": "Héros - Goron / Prodige",
+        "cost": 0,
+        "power": 18,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Daruk, Prodige Goron",
+    "type": "Hero Deck",
+    "subTypes": "Héros - Goron / Prodige",
+    "cost": 0,
+    "power": 18
+  },
+  "53": {
+    "id": "53",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Yunobo, Sage du Feu",
+        "type": "Hero Deck",
+        "subTypes": "Héros - Goron / Sage",
+        "cost": 0,
+        "power": 15,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Yunobo, Sage du Feu",
+    "type": "Hero Deck",
+    "subTypes": "Héros - Goron / Sage",
+    "cost": 0,
+    "power": 15
+  },
+  "54": {
+    "id": "54",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vah'Rudania",
+        "type": "Deck Divinite",
+        "subTypes": "Créature Divine - Goron",
+        "cost": 0,
+        "power": 10,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vah'Rudania",
+    "type": "Deck Divinite",
+    "subTypes": "Créature Divine - Goron",
+    "cost": 0,
+    "power": 10
+  },
+  "55": {
+    "id": "55",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sanctuaire Goron",
+        "type": "Deck Sanctuaire",
+        "subTypes": "Sanctuaire - Goron",
+        "cost": 0,
+        "power": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sanctuaire Goron",
+    "type": "Deck Sanctuaire",
+    "subTypes": "Sanctuaire - Goron",
+    "cost": 0,
+    "power": 0
+  },
+  "56": {
+    "id": "56",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Temple du Feu",
+        "type": "Main Deck",
+        "subTypes": "Temple - Goron",
+        "cost": 0,
+        "power": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Temple du Feu",
+    "type": "Main Deck",
+    "subTypes": "Temple - Goron",
+    "cost": 0,
+    "power": 0
+  },
+  "57": {
+    "id": "57",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bouclier de Daruk",
+        "type": "Main Deck",
+        "subTypes": "Soutien - Goron",
+        "cost": 3,
+        "power": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bouclier de Daruk",
+    "type": "Main Deck",
+    "subTypes": "Soutien - Goron",
+    "cost": 3,
+    "power": 0
+  },
+  "58": {
+    "id": "58",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Serment de Yunobo",
+        "type": "Main Deck",
+        "subTypes": "Soutien - Goron",
+        "cost": 3,
+        "power": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Serment de Yunobo",
+    "type": "Main Deck",
+    "subTypes": "Soutien - Goron",
+    "cost": 3,
+    "power": 0
+  },
+  "59": {
+    "id": "59",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Serment Éternel de Yunobo",
+        "type": "Main Deck",
+        "subTypes": "Soutien - Goron",
+        "cost": 5,
+        "power": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Serment Éternel de Yunobo",
+    "type": "Main Deck",
+    "subTypes": "Soutien - Goron",
+    "cost": 5,
+    "power": 0
+  },
+  "60": {
+    "id": "60",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Savouroche",
+        "type": "Main Deck",
+        "subTypes": "Soutien - Goron / Nourriture",
+        "cost": 2,
+        "power": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Savouroche",
+    "type": "Main Deck",
+    "subTypes": "Soutien - Goron / Nourriture",
+    "cost": 2,
+    "power": 0
+  },
+  "61": {
+    "id": "61",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gigot de Caillasse",
+        "type": "Main Deck",
+        "subTypes": "Soutien - Goron / Nourriture",
+        "cost": 1,
+        "power": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gigot de Caillasse",
+    "type": "Main Deck",
+    "subTypes": "Soutien - Goron / Nourriture",
+    "cost": 1,
+    "power": 0
+  },
+  "62": {
+    "id": "62",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Flacon d'Épices Gorons",
+        "type": "Main Deck",
+        "subTypes": "Soutien - Goron / Nourriture",
+        "cost": 1,
+        "power": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Flacon d'Épices Gorons",
+    "type": "Main Deck",
+    "subTypes": "Soutien - Goron / Nourriture",
+    "cost": 1,
+    "power": 0
+  },
+  "63": {
+    "id": "63",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Remède Ignifus",
+        "type": "Main Deck",
+        "subTypes": "Soutien - Goron / Nourriture",
+        "cost": 2,
+        "power": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Remède Ignifus",
+    "type": "Main Deck",
+    "subTypes": "Soutien - Goron / Nourriture",
+    "cost": 2,
+    "power": 0
+  },
+  "64": {
+    "id": "64",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Armure Goron",
+        "type": "Main Deck",
+        "subTypes": "Équipement - Goron",
+        "cost": 3,
+        "power": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Armure Goron",
+    "type": "Main Deck",
+    "subTypes": "Équipement - Goron",
+    "cost": 3,
+    "power": 0
+  },
+  "65": {
+    "id": "65",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Casse-pierre",
+        "type": "Main Deck",
+        "subTypes": "Équipement - Goron",
+        "cost": 1,
+        "power": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Casse-pierre",
+    "type": "Main Deck",
+    "subTypes": "Équipement - Goron",
+    "cost": 1,
+    "power": 0
+  },
+  "66": {
+    "id": "66",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Brise-montagne",
+        "type": "Main Deck",
+        "subTypes": "Équipement - Goron",
+        "cost": 4,
+        "power": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Brise-montagne",
+    "type": "Main Deck",
+    "subTypes": "Équipement - Goron",
+    "cost": 4,
+    "power": 0
+  },
+  "67": {
+    "id": "67",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Le Grand Daruk",
+        "type": "Main Deck",
+        "subTypes": "Guerrier - Goron",
+        "cost": 5,
+        "power": 3,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Le Grand Daruk",
+    "type": "Main Deck",
+    "subTypes": "Guerrier - Goron",
+    "cost": 5,
+    "power": 3
+  },
+  "68": {
+    "id": "68",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Yunobo, Jeune Goron",
+        "type": "Main Deck",
+        "subTypes": "Guerrier - Goron",
+        "cost": 2,
+        "power": 1,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Yunobo, Jeune Goron",
+    "type": "Main Deck",
+    "subTypes": "Guerrier - Goron",
+    "cost": 2,
+    "power": 1
+  },
+  "69": {
+    "id": "69",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vator, Petit Goron",
+        "type": "Main Deck",
+        "subTypes": "Guerrier - Goron",
+        "cost": 1,
+        "power": 1,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vator, Petit Goron",
+    "type": "Main Deck",
+    "subTypes": "Guerrier - Goron",
+    "cost": 1,
+    "power": 1
+  },
+  "70": {
+    "id": "70",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Buldo, Boss Goron",
+        "type": "Main Deck",
+        "subTypes": "Guerrier - Goron",
+        "cost": 2,
+        "power": 1,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Buldo, Boss Goron",
+    "type": "Main Deck",
+    "subTypes": "Guerrier - Goron",
+    "cost": 2,
+    "power": 1
+  },
+  "71": {
+    "id": "71",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Uldon, Guide Goron",
+        "type": "Main Deck",
+        "subTypes": "Guerrier - Goron",
+        "cost": 2,
+        "power": 1,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Uldon, Guide Goron",
+    "type": "Main Deck",
+    "subTypes": "Guerrier - Goron",
+    "cost": 2,
+    "power": 1
+  },
+  "72": {
+    "id": "72",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kamaxor, le Cuistot",
+        "type": "Main Deck",
+        "subTypes": "Guerrier - Goron",
+        "cost": 2,
+        "power": 1,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kamaxor, le Cuistot",
+    "type": "Main Deck",
+    "subTypes": "Guerrier - Goron",
+    "cost": 2,
+    "power": 1
+  },
+  "73": {
+    "id": "73",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Brathan, Forgeron Goron",
+        "type": "Main Deck",
+        "subTypes": "Guerrier - Goron",
+        "cost": 2,
+        "power": 1,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Brathan, Forgeron Goron",
+    "type": "Main Deck",
+    "subTypes": "Guerrier - Goron",
+    "cost": 2,
+    "power": 1
+  },
+  "74": {
+    "id": "74",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Patron Yunobo",
+        "type": "Main Deck",
+        "subTypes": "Guerrier - Goron",
+        "cost": 4,
+        "power": 1,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Patron Yunobo",
+    "type": "Main Deck",
+    "subTypes": "Guerrier - Goron",
+    "cost": 4,
+    "power": 1
+  },
+  "75": {
+    "id": "75",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Urbosa, Prodige Gerudo",
+        "type": "Hero Deck",
+        "subTypes": "Héros - Gerudo / Prodige",
+        "cost": 0,
+        "power": 14,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Urbosa, Prodige Gerudo",
+    "type": "Hero Deck",
+    "subTypes": "Héros - Gerudo / Prodige",
+    "cost": 0,
+    "power": 14
+  },
+  "76": {
+    "id": "76",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Riju, Sage de la Foudre",
+        "type": "Hero Deck",
+        "subTypes": "Héros - Gerudo / Sage",
+        "cost": 0,
+        "power": 13,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Riju, Sage de la Foudre",
+    "type": "Hero Deck",
+    "subTypes": "Héros - Gerudo / Sage",
+    "cost": 0,
+    "power": 13
+  },
+  "77": {
+    "id": "77",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vah'Naboris",
+        "type": "Deck Divinite",
+        "subTypes": "Créature Divine - Gerudo",
+        "cost": 0,
+        "power": 10,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vah'Naboris",
+    "type": "Deck Divinite",
+    "subTypes": "Créature Divine - Gerudo",
+    "cost": 0,
+    "power": 10
+  },
+  "78": {
+    "id": "78",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sanctuaire Gerudo",
+        "type": "Deck Sanctuaire",
+        "subTypes": "Sanctuaire - Gerudo",
+        "cost": 0,
+        "power": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sanctuaire Gerudo",
+    "type": "Deck Sanctuaire",
+    "subTypes": "Sanctuaire - Gerudo",
+    "cost": 0,
+    "power": 0
+  },
+  "79": {
+    "id": "79",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Temple de la Foudre",
+        "type": "Main Deck",
+        "subTypes": "Temple - Gerudo",
+        "cost": 0,
+        "power": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Temple de la Foudre",
+    "type": "Main Deck",
+    "subTypes": "Temple - Gerudo",
+    "cost": 0,
+    "power": 0
+  },
+  "80": {
+    "id": "80",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Colère d'Urbosa",
+        "type": "Main Deck",
+        "subTypes": "Soutien - Gerudo",
+        "cost": 3,
+        "power": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Colère d'Urbosa",
+    "type": "Main Deck",
+    "subTypes": "Soutien - Gerudo",
+    "cost": 3,
+    "power": 0
+  },
+  "81": {
+    "id": "81",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Serment de Riju",
+        "type": "Main Deck",
+        "subTypes": "Soutien - Gerudo",
+        "cost": 3,
+        "power": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Serment de Riju",
+    "type": "Main Deck",
+    "subTypes": "Soutien - Gerudo",
+    "cost": 3,
+    "power": 0
+  },
+  "82": {
+    "id": "82",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Serment Éternel de Riju",
+        "type": "Main Deck",
+        "subTypes": "Soutien - Gerudo",
+        "cost": 5,
+        "power": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Serment Éternel de Riju",
+    "type": "Main Deck",
+    "subTypes": "Soutien - Gerudo",
+    "cost": 5,
+    "power": 0
+  },
+  "83": {
+    "id": "83",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Peluche de Morse des Sables",
+        "type": "Main Deck",
+        "subTypes": "Soutien - Gerudo",
+        "cost": 1,
+        "power": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Peluche de Morse des Sables",
+    "type": "Main Deck",
+    "subTypes": "Soutien - Gerudo",
+    "cost": 1,
+    "power": 0
+  },
+  "84": {
+    "id": "84",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bouclier Gerudo",
+        "type": "Main Deck",
+        "subTypes": "Équipement - Gerudo",
+        "cost": 2,
+        "power": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bouclier Gerudo",
+    "type": "Main Deck",
+    "subTypes": "Équipement - Gerudo",
+    "cost": 2,
+    "power": 0
+  },
+  "85": {
+    "id": "85",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cimeterre Gerudo",
+        "type": "Main Deck",
+        "subTypes": "Équipement - Gerudo",
+        "cost": 1,
+        "power": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cimeterre Gerudo",
+    "type": "Main Deck",
+    "subTypes": "Équipement - Gerudo",
+    "cost": 1,
+    "power": 0
+  },
+  "86": {
+    "id": "86",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cimeterre des Sept Joyaux",
+        "type": "Main Deck",
+        "subTypes": "Équipement - Gerudo",
+        "cost": 4,
+        "power": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cimeterre des Sept Joyaux",
+    "type": "Main Deck",
+    "subTypes": "Équipement - Gerudo",
+    "cost": 4,
+    "power": 0
+  },
+  "87": {
+    "id": "87",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tempête de Sable",
+        "type": "Main Deck",
+        "subTypes": "Lieu - Gerudo",
+        "cost": 2,
+        "power": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tempête de Sable",
+    "type": "Main Deck",
+    "subTypes": "Lieu - Gerudo",
+    "cost": 2,
+    "power": 0
+  },
+  "88": {
+    "id": "88",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cité Gerudo",
+        "type": "Main Deck",
+        "subTypes": "Lieu - Gerudo",
+        "cost": 3,
+        "power": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cité Gerudo",
+    "type": "Main Deck",
+    "subTypes": "Lieu - Gerudo",
+    "cost": 3,
+    "power": 0
+  },
+  "89": {
+    "id": "89",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Garde Gerudo",
+        "type": "Main Deck",
+        "subTypes": "Guerrier - Gerudo",
+        "cost": 1,
+        "power": 1,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Garde Gerudo",
+    "type": "Main Deck",
+    "subTypes": "Guerrier - Gerudo",
+    "cost": 1,
+    "power": 1
+  },
+  "90": {
+    "id": "90",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Capitaine Beterah",
+        "type": "Main Deck",
+        "subTypes": "Guerrier - Gerudo",
+        "cost": 3,
+        "power": 3,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Capitaine Beterah",
+    "type": "Main Deck",
+    "subTypes": "Guerrier - Gerudo",
+    "cost": 3,
+    "power": 3
+  },
+  "91": {
+    "id": "91",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Chef Gerudo, Riju",
+        "type": "Main Deck",
+        "subTypes": "Guerrier - Gerudo",
+        "cost": 4,
+        "power": 3,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chef Gerudo, Riju",
+    "type": "Main Deck",
+    "subTypes": "Guerrier - Gerudo",
+    "cost": 4,
+    "power": 3
+  },
+  "92": {
+    "id": "92",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Riju & Madame Patricia",
+        "type": "Main Deck",
+        "subTypes": "Guerrier - Gerudo",
+        "cost": 4,
+        "power": 1,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Riju & Madame Patricia",
+    "type": "Main Deck",
+    "subTypes": "Guerrier - Gerudo",
+    "cost": 4,
+    "power": 1
+  },
+  "93": {
+    "id": "93",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Morse des Sables",
+        "type": "Main Deck",
+        "subTypes": "Guerrier - Gerudo / Animal",
+        "cost": 2,
+        "power": 2,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Morse des Sables",
+    "type": "Main Deck",
+    "subTypes": "Guerrier - Gerudo / Animal",
+    "cost": 2,
+    "power": 2
+  },
+  "94": {
+    "id": "94",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Chef Gerudo, Urbosa",
+        "type": "Main Deck",
+        "subTypes": "Guerrier - Gerudo",
+        "cost": 8,
+        "power": 6,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chef Gerudo, Urbosa",
+    "type": "Main Deck",
+    "subTypes": "Guerrier - Gerudo",
+    "cost": 8,
+    "power": 6
+  }
+}
