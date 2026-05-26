@@ -239,8 +239,7 @@
             "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": true,
-            "enterAtBottom": true
+            "showHiddenCardInHistory": true
           },
           "Creature Divine": {
             "title": "Creature Divine",
