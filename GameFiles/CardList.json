@@ -1,4 +1,4 @@
-    {
+{
   "1": {
     "id": "1",
     "isToken": false,
@@ -458,5 +458,487 @@
     "subTypes": "Triforce - Force",
     "cost": 0,
     "power": 0
-  }
-  }
+  },
+  "24": {
+    "id": "24",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Link, Chevalier Hylien",
+        "type": "Main Deck",
+        "subTypes": "Guerrier - Hylien / Chevalier",
+        "cost": 3,
+        "power": 2,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Link, Chevalier Hylien",
+    "type": "Main Deck",
+    "subTypes": "Guerrier - Hylien / Chevalier",
+    "cost": 3,
+    "power": 2
+  },
+  "25": {
+    "id": "25",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Link, Prodige Hylien",
+        "type": "Main Deck",
+        "subTypes": "Guerrier - Hylien / Prodige",
+        "cost": 5,
+        "power": 4,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Link, Prodige Hylien",
+    "type": "Main Deck",
+    "subTypes": "Guerrier - Hylien / Prodige",
+    "cost": 5,
+    "power": 4
+  },
+  "26": {
+    "id": "26",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sidon, Prince Zora",
+        "type": "Main Deck",
+        "subTypes": "Guerrier - Zora",
+        "cost": 4,
+        "power": 3,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sidon, Prince Zora",
+    "type": "Main Deck",
+    "subTypes": "Guerrier - Zora",
+    "cost": 4,
+    "power": 3
+  },
+  "27": {
+    "id": "27",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Meryth le Précepteur",
+        "type": "Main Deck",
+        "subTypes": "Guerrier - Zora",
+        "cost": 2,
+        "power": 1,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Meryth le Précepteur",
+    "type": "Main Deck",
+    "subTypes": "Guerrier - Zora",
+    "cost": 2,
+    "power": 1
+  },
+  "28": {
+    "id": "28",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Poréa, Garde Zora",
+        "type": "Main Deck",
+        "subTypes": "Guerrier - Zora",
+        "cost": 2,
+        "power": 2,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Poréa, Garde Zora",
+    "type": "Main Deck",
+    "subTypes": "Guerrier - Zora",
+    "cost": 2,
+    "power": 2
+  },
+  "29": {
+    "id": "29",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Taol, Fan de Sidon",
+        "type": "Main Deck",
+        "subTypes": "Guerrier - Zora",
+        "cost": 1,
+        "power": 1,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Taol, Fan de Sidon",
+    "type": "Main Deck",
+    "subTypes": "Guerrier - Zora",
+    "cost": 1,
+    "power": 1
+  },
+  "30": {
+    "id": "30",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Yona, Fiancée de Sidon",
+        "type": "Main Deck",
+        "subTypes": "Guerrier - Zora",
+        "cost": 5,
+        "power": 2,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Yona, Fiancée de Sidon",
+    "type": "Main Deck",
+    "subTypes": "Guerrier - Zora",
+    "cost": 5,
+    "power": 2
+  },
+  "31": {
+    "id": "31",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mipha, Princesse Zora",
+        "type": "Main Deck",
+        "subTypes": "Guerrier - Zora / Prodige",
+        "cost": 7,
+        "power": 3,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mipha, Princesse Zora",
+    "type": "Main Deck",
+    "subTypes": "Guerrier - Zora / Prodige",
+    "cost": 7,
+    "power": 3
+  },
+  "32": {
+    "id": "32",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sanctuaire Zora",
+        "type": "Deck Sanctuaire",
+        "subTypes": "Sanctuaire - Zora",
+        "cost": 0,
+        "power": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sanctuaire Zora",
+    "type": "Deck Sanctuaire",
+    "subTypes": "Sanctuaire - Zora",
+    "cost": 0,
+    "power": 0
+  },
+  "33": {
+    "id": "33",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Temple de l'Eau",
+        "type": "Main Deck",
+        "subTypes": "Temple - Zora",
+        "cost": 0,
+        "power": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Temple de l'Eau",
+    "type": "Main Deck",
+    "subTypes": "Temple - Zora",
+    "cost": 0,
+    "power": 0
+  },
+  "34": {
+    "id": "34",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Domaine Zora",
+        "type": "Main Deck",
+        "subTypes": "Lieu - Zora",
+        "cost": 2,
+        "power": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Domaine Zora",
+    "type": "Main Deck",
+    "subTypes": "Lieu - Zora",
+    "cost": 2,
+    "power": 0
+  },
+  "35": {
+    "id": "35",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tablette Sheikah",
+        "type": "Main Deck",
+        "subTypes": "Soutien - Sheikah",
+        "cost": 1,
+        "power": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tablette Sheikah",
+    "type": "Main Deck",
+    "subTypes": "Soutien - Sheikah",
+    "cost": 1,
+    "power": 0
+  },
+  "36": {
+    "id": "36",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Perche d'Hyrule",
+        "type": "Main Deck",
+        "subTypes": "Soutien - Nourriture",
+        "cost": 1,
+        "power": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Perche d'Hyrule",
+    "type": "Main Deck",
+    "subTypes": "Soutien - Nourriture",
+    "cost": 1,
+    "power": 0
+  },
+  "37": {
+    "id": "37",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Emblème du Triomphe",
+        "type": "Main Deck",
+        "subTypes": "Soutien - Hylien",
+        "cost": 0,
+        "power": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Emblème du Triomphe",
+    "type": "Main Deck",
+    "subTypes": "Soutien - Hylien",
+    "cost": 0,
+    "power": 0
+  },
+  "38": {
+    "id": "38",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Prière de Mipha",
+        "type": "Main Deck",
+        "subTypes": "Soutien - Hylien",
+        "cost": 3,
+        "power": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Prière de Mipha",
+    "type": "Main Deck",
+    "subTypes": "Soutien - Hylien",
+    "cost": 3,
+    "power": 0
+  },
+  "39": {
+    "id": "39",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tour Sheikah",
+        "type": "Main Deck",
+        "subTypes": "Soutien - Sheikah",
+        "cost": 2,
+        "power": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tour Sheikah",
+    "type": "Main Deck",
+    "subTypes": "Soutien - Sheikah",
+    "cost": 2,
+    "power": 0
+  },
+  "40": {
+    "id": "40",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Armure Zora",
+        "type": "Main Deck",
+        "subTypes": "Équipement - Zora",
+        "cost": 3,
+        "power": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Armure Zora",
+    "type": "Main Deck",
+    "subTypes": "Équipement - Zora",
+    "cost": 3,
+    "power": 0
+  },
+  "41": {
+    "id": "41",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lance d'Écailles Radieuses",
+        "type": "Main Deck",
+        "subTypes": "Équipement - Zora",
+        "cost": 4,
+        "power": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lance d'Écailles Radieuses",
+    "type": "Main Deck",
+    "subTypes": "Équipement - Zora",
+    "cost": 4,
+    "power": 0
+  },
+  "42": {
+    "id": "42",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Module Cinetis",
+        "type": "Main Deck",
+        "subTypes": "Soutien - Sheikah",
+        "cost": 2,
+        "power": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Module Cinetis",
+    "type": "Main Deck",
+    "subTypes": "Soutien - Sheikah",
+    "cost": 2,
+    "power": 0
+  },
+  "43": {
+    "id": "43",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Module Cinetis +",
+        "type": "Main Deck",
+        "subTypes": "Soutien - Sheikah",
+        "cost": 3,
+        "power": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Module Cinetis +",
+    "type": "Main Deck",
+    "subTypes": "Soutien - Sheikah",
+    "cost": 3,
+    "power": 0
+  },
+  "44": {
+    "id": "44",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Module Polaris",
+        "type": "Main Deck",
+        "subTypes": "Soutien - Sheikah",
+        "cost": 2,
+        "power": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Module Polaris",
+    "type": "Main Deck",
+    "subTypes": "Soutien - Sheikah",
+    "cost": 2,
+    "power": 0
+  },
+  "45": {
+    "id": "45",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Module Bombe à Distance",
+        "type": "Main Deck",
+        "subTypes": "Soutien - Sheikah",
+        "cost": 2,
+        "power": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Module Bombe à Distance",
+    "type": "Main Deck",
+    "subTypes": "Soutien - Sheikah",
+    "cost": 2,
+    "power": 0
+  },
+  "46": {
+    "id": "46",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Module Cryonis",
+        "type": "Main Deck",
+        "subTypes": "Soutien - Sheikah",
+        "cost": 2,
+        "power": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Module Cryonis",
+    "type": "Main Deck",
+    "subTypes": "Soutien - Sheikah",
+    "cost": 2,
+    "power": 0
+  },
+  "47": {
+    "id": "47",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Réceptacle d'Endurance",
+        "type": "Main Deck",
+        "subTypes": "Soutien - Hylien / Réceptacle",
+        "cost": 6,
+        "power": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Réceptacle d'Endurance",
+    "type": "Main Deck",
+    "subTypes": "Soutien - Hylien / Réceptacle",
+    "cost": 6,
+    "power": 0
+  },
+  "48": {
+    "id": "48",
+    "isToken"
