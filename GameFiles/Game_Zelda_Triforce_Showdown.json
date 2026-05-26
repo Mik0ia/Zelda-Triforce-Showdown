@@ -98,7 +98,7 @@
           "Triforce - Sagesse",
           "Triforce - Force",
           "Creature Divine",
-          "Deck Sanctuaire"
+          "Deck_Sanctuaire"
         ],
         "layout": {
           "direction": "column",
@@ -136,7 +136,7 @@
                       "style": false
                     },
                     {
-                      "section": "Deck Sanctuaire",
+                      "section": "Deck_Sanctuaire",
                       "style": false
                     }
                   ],
@@ -167,7 +167,7 @@
           ]
         },
         "categoriesAlreadyOnBoard": [
-          "Deck Sanctuaire",
+          "Deck Sanctuaire->Deck_Sanctuaire",
           "Hero Deck->Heros",
           "Deck Divinite->Creature Divine",
           "Triforce - Courage",
@@ -225,8 +225,8 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Deck Sanctuaire": {
-            "title": "Deck Sanctuaire",
+          "Deck_Sanctuaire": {
+            "title": "Deck_Sanctuaire",
             "isHidden": "no",
             "height": "MEDIUM",
             "alignment": "DECK",
