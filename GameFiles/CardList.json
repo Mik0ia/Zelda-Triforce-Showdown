@@ -408,7 +408,7 @@
         "subTypes": "Créature Divine - Piaf",
         "cost": 0,
         "power": 10,
-        "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/PIAF/Vah%27medoh.jpg",
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/PIAF/Vah%E2%80%99medoh.jpg?raw=true",
         "isHorizontal": false
       }
     },
@@ -1059,7 +1059,7 @@
         "subTypes": "Créature Divine - Zora",
         "cost": 0,
         "power": 10,
-        "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/ZORA/Vah%27Ruta.jpg",
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/ZORA/Vah%E2%80%99Ruta.jpg?raw=true",
         "isHorizontal": false
       }
     },
@@ -1068,7 +1068,7 @@
     "subTypes": "Créature Divine - Zora",
     "cost": 0,
     "power": 10,
-    "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/ZORA/Vah%27Ruta.jpg"
+    "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/ZORA/Vah%E2%80%99Ruta.jpg?raw=true"
   },
   "52": {
     "id": "52",
