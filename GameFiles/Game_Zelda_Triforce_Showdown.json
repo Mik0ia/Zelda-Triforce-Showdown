@@ -174,9 +174,31 @@
           "Triforce - Force",
           "Heros"
         ],
-        "autoPlayFromHand": {},
-        "autoPlayFromStack": {},
+        "autoPlayFromHand": {
+          "Hero Deck": "Heros",
+          "Deck Divinite": "Creature Divine"
+        },
+        "autoPlayFromStack": {
+          "Hero Deck": "Heros",
+          "Deck Divinite": "Creature Divine"
+        },
         "sectionsDict": {
+          "Terrain": {
+            "title": "Terrain",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Terrain",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
           "Heros": {
             "title": "Heros",
             "isHidden": "no",
