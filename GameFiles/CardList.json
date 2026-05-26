@@ -240,7 +240,7 @@
         "subTypes": "Équipement - Piaf",
         "cost": 4,
         "power": 0,
-        "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/PIAF/Arc%20de%20l%27Aigle.jpg",
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/PIAF/Arc%20de%20l%E2%80%99Aigle.jpg?raw=true",
         "isHorizontal": false
       }
     },
@@ -681,7 +681,7 @@
         "subTypes": "Temple - Zora",
         "cost": 0,
         "power": 0,
-        "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/ZORA/Temple%20de%20l%27Eau.jpg",
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/ZORA/Temple%20de%20l%E2%80%99Eau.jpg?raw=true",
         "isHorizontal": false
       }
     },
@@ -744,7 +744,7 @@
         "subTypes": "Soutien - Nourriture",
         "cost": 1,
         "power": 0,
-        "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/HYRULE/Perche%20d%27Hyrule.jpg",
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/HYRULE/Perche%20d%E2%80%99Hyrule.jpg?raw=true",
         "isHorizontal": false
       }
     },
@@ -849,7 +849,7 @@
         "subTypes": "Équipement - Zora",
         "cost": 4,
         "power": 0,
-        "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/ZORA/Lance%20d%27%C3%89cailles%20Radieuses.jpg",
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/ZORA/Lance%20d%E2%80%99%C3%89cailles%20Radieuses.jpg?raw=true",
         "isHorizontal": false
       }
     },
@@ -975,7 +975,7 @@
         "subTypes": "Soutien - Hylien / Réceptacle",
         "cost": 6,
         "power": 0,
-        "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/HYRULE/R%C3%A9ceptacle%20d%27Endurance.jpg",
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/HYRULE/R%C3%A9ceptacle%20d%E2%80%99Endurance.jpg?raw=true",
         "isHorizontal": false
       }
     },
@@ -1038,7 +1038,7 @@
         "subTypes": "Héros - Zora / Sage",
         "cost": 0,
         "power": 14,
-        "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/ZORA/Sidon%2C%20Sage%20de%20l%27Eau.jpg",
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/ZORA/Sidon,%20Sage%20de%20l%E2%80%99Eau.jpg?raw=true",
         "isHorizontal": false
       }
     },
@@ -2524,20 +2524,20 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Ganondorf, Roi Démon (Héros)",
-        "type": "Hero Deck",
+        "name": "Ganondorf, Roi Démon",
+        "type": "Main Deck",
         "subTypes": "Guerrier - Ganon / Ganondorf",
-        "cost": "0",
+        "cost": 12,
         "power": 8,
         "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GANON/Ganondorf%2C%20Roi%20D%C3%A9mon%20%282%29.jpg",
         "isHorizontal": false
       }
     },
-    "name": "Ganondorf, Roi Démon (Héros)",
+    "name": "Ganondorf, Roi Démon",
     "type": "Main Deck",
     "subTypes": "Guerrier - Ganon / Ganondorf",
-    "cost": "0",
-    "power": "14",
+    "cost": 12,
+    "power": 8,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GANON/Ganondorf%2C%20Roi%20D%C3%A9mon%20%282%29.jpg"
   },
   "122": {
