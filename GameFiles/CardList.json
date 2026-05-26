@@ -1,258 +1,462 @@
-{
+    {
   "1": {
     "id": "1",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Link",
+        "name": "Revali, Fier Guerrier",
         "type": "Main Deck",
-        "cost": 0,
-        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/2.jpg?raw=true",
+        "subTypes": "Guerrier - Piaf / Prodige",
+        "cost": 5,
+        "power": 4,
+        "image": "",
         "isHorizontal": false
       }
     },
-    "name": "Link",
+    "name": "Revali, Fier Guerrier",
     "type": "Main Deck",
-    "cost": 0
+    "subTypes": "Guerrier - Piaf / Prodige",
+    "cost": 5,
+    "power": 4
   },
   "2": {
     "id": "2",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Triforce du Courage",
-        "type": "Triforce - Courage",
-        "cost": 0,
-        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/Zelda%20Triforce%20Showdown%20-%20Cartes%20Impression%20Gerudo%20-%206.jpg?raw=true",
+        "name": "Babil, Jeune Piaf",
+        "type": "Main Deck",
+        "subTypes": "Guerrier - Piaf",
+        "cost": 1,
+        "power": 1,
+        "image": "",
         "isHorizontal": false
       }
     },
-    "name": "Triforce du Courage",
-    "type": "Triforce - Courage",
-    "cost": 0
+    "name": "Babil, Jeune Piaf",
+    "type": "Main Deck",
+    "subTypes": "Guerrier - Piaf",
+    "cost": 1,
+    "power": 1
   },
   "3": {
     "id": "3",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Sidon",
-        "type": "Hero Deck",
-        "cost": 0,
-        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/30.jpg?raw=true",
+        "name": "Babil, Archer Piaf",
+        "type": "Main Deck",
+        "subTypes": "Guerrier - Piaf",
+        "cost": 4,
+        "power": 0,
+        "image": "",
         "isHorizontal": false
       }
     },
-    "name": "Sidon",
-    "type": "Hero Deck",
-    "cost": 0
+    "name": "Babil, Archer Piaf",
+    "type": "Main Deck",
+    "subTypes": "Guerrier - Piaf",
+    "cost": 4,
+    "power": 0
   },
   "4": {
     "id": "4",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Sanctuaire Zora",
-        "type": "Deck Sanctuaire",
-        "cost": 0,
-        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/9.jpg?raw=true",
+        "name": "Teba, Guerrier Piaf",
+        "type": "Main Deck",
+        "subTypes": "Guerrier - Piaf",
+        "cost": 3,
+        "power": 3,
+        "image": "",
         "isHorizontal": false
       }
     },
-    "name": "Sanctuaire Zora",
-    "type": "Deck Sanctuaire",
-    "cost": 0
+    "name": "Teba, Guerrier Piaf",
+    "type": "Main Deck",
+    "subTypes": "Guerrier - Piaf",
+    "cost": 3,
+    "power": 3
   },
   "5": {
     "id": "5",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Vah Ruta",
-        "type": "Deck Divinite",
-        "cost": 0,
-        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/31.jpg?raw=true",
+        "name": "Teba, Chef des Piaf",
+        "type": "Main Deck",
+        "subTypes": "Guerrier - Piaf",
+        "cost": 6,
+        "power": 4,
+        "image": "",
         "isHorizontal": false
       }
     },
-    "name": "Vah Ruta",
-    "type": "Deck Divinite",
-    "cost": 0
+    "name": "Teba, Chef des Piaf",
+    "type": "Main Deck",
+    "subTypes": "Guerrier - Piaf",
+    "cost": 6,
+    "power": 4
   },
   "6": {
     "id": "6",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Triforce de la Sagesse",
-        "type": "Triforce - Sagesse",
-        "cost": 0,
-        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/Zelda%20Triforce%20Showdown%20-%20Cartes%20Impression%20Gerudo%20-%205.jpg?raw=true",
+        "name": "Asarim, le Ménéstrel (Révéler)",
+        "type": "Main Deck",
+        "subTypes": "Guerrier - Piaf",
+        "cost": 1,
+        "power": 3,
+        "image": "",
         "isHorizontal": false
       }
     },
-    "name": "Triforce de la Sagesse",
-    "type": "Triforce - Sagesse",
-    "cost": 0
+    "name": "Asarim, le Ménéstrel (Révéler)",
+    "type": "Main Deck",
+    "subTypes": "Guerrier - Piaf",
+    "cost": 1,
+    "power": 3
   },
   "7": {
     "id": "7",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Triforce de la Force",
-        "type": "Triforce - Force",
-        "cost": 0,
-        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/Zelda%20Triforce%20Showdown%20-%20Cartes%20Impression%20Gerudo%20-%204.jpg?raw=true",
+        "name": "Asarim, le Ménéstrel (Redresser)",
+        "type": "Main Deck",
+        "subTypes": "Guerrier - Piaf",
+        "cost": 1,
+        "power": 2,
+        "image": "",
         "isHorizontal": false
       }
     },
-    "name": "Triforce de la Force",
-    "type": "Triforce - Force",
-    "cost": 0
+    "name": "Asarim, le Ménéstrel (Redresser)",
+    "type": "Main Deck",
+    "subTypes": "Guerrier - Piaf",
+    "cost": 1,
+    "power": 2
   },
   "8": {
     "id": "8",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Yona, Fiancé de Sidon",
+        "name": "Kaï, Doyen Piaf",
         "type": "Main Deck",
-        "cost": 0,
-        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/Yona.jpg?raw=true",
+        "subTypes": "Guerrier - Piaf",
+        "cost": 2,
+        "power": 1,
+        "image": "",
         "isHorizontal": false
       }
     },
-    "name": "Yona, Fiancé de Sidon",
+    "name": "Kaï, Doyen Piaf",
     "type": "Main Deck",
-    "cost": 0
+    "subTypes": "Guerrier - Piaf",
+    "cost": 2,
+    "power": 1
   },
   "9": {
     "id": "9",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Temple de l'eau",
+        "name": "Dézelle, Mère de Babil",
         "type": "Main Deck",
-        "cost": 0,
-        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/Temple%20de%20leau.jpg?raw=true",
+        "subTypes": "Guerrier - Piaf",
+        "cost": 2,
+        "power": 1,
+        "image": "",
         "isHorizontal": false
       }
     },
-    "name": "Temple de l'eau",
+    "name": "Dézelle, Mère de Babil",
     "type": "Main Deck",
-    "cost": 0
+    "subTypes": "Guerrier - Piaf",
+    "cost": 2,
+    "power": 1
   },
   "10": {
     "id": "10",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Taol, Fan de Sidon",
+        "name": "Village Piaf",
         "type": "Main Deck",
-        "cost": 0,
-        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/Taol.jpg?raw=true",
+        "subTypes": "Lieu - Piaf",
+        "cost": 2,
+        "power": 0,
+        "image": "",
         "isHorizontal": false
       }
     },
-    "name": "Taol, Fan de Sidon",
+    "name": "Village Piaf",
     "type": "Main Deck",
-    "cost": 0
+    "subTypes": "Lieu - Piaf",
+    "cost": 2,
+    "power": 0
   },
   "11": {
     "id": "11",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Tablette Sheika",
+        "name": "Temple du Vent",
         "type": "Main Deck",
+        "subTypes": "Temple - Piaf",
         "cost": 0,
-        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/Tablette%20Sheika.jpg?raw=true",
+        "power": 0,
+        "image": "",
         "isHorizontal": false
       }
     },
-    "name": "Tablette Sheika",
+    "name": "Temple du Vent",
     "type": "Main Deck",
-    "cost": 0
+    "subTypes": "Temple - Piaf",
+    "cost": 0,
+    "power": 0
   },
   "12": {
     "id": "12",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Sidon, Prince Zora",
+        "name": "Arc de l'Aigle",
         "type": "Main Deck",
-        "cost": 0,
-        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/Sidon1.jpg?raw=true",
+        "subTypes": "Équipement - Piaf",
+        "cost": 4,
+        "power": 0,
+        "image": "",
         "isHorizontal": false
       }
     },
-    "name": "Sidon, Prince Zora",
+    "name": "Arc de l'Aigle",
     "type": "Main Deck",
-    "cost": 0
+    "subTypes": "Équipement - Piaf",
+    "cost": 4,
+    "power": 0
   },
   "13": {
     "id": "13",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Poréa, Garde Zora",
+        "name": "Arc du Faucon",
         "type": "Main Deck",
-        "cost": 0,
-        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/Por%C3%A9a.jpg?raw=true",
+        "subTypes": "Équipement - Piaf",
+        "cost": 2,
+        "power": 0,
+        "image": "",
         "isHorizontal": false
       }
     },
-    "name": "Poréa, Garde Zora",
+    "name": "Arc du Faucon",
     "type": "Main Deck",
-    "cost": 0
+    "subTypes": "Équipement - Piaf",
+    "cost": 2,
+    "power": 0
   },
   "14": {
     "id": "14",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Mipha, Princesse Zora",
+        "name": "Rage de Révali",
         "type": "Main Deck",
-        "cost": 0,
-        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/Mipha1.jpg?raw=true",
+        "subTypes": "Soutien - Piaf",
+        "cost": 3,
+        "power": 0,
+        "image": "",
         "isHorizontal": false
       }
     },
-    "name": "Mipha, Princesse Zora",
+    "name": "Rage de Révali",
     "type": "Main Deck",
-    "cost": 0
+    "subTypes": "Soutien - Piaf",
+    "cost": 3,
+    "power": 0
   },
   "15": {
     "id": "15",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Meryth le précepteur",
+        "name": "Serment de Babil",
         "type": "Main Deck",
-        "cost": 0,
-        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/Meryth.jpg?raw=true",
+        "subTypes": "Soutien - Piaf",
+        "cost": 3,
+        "power": 0,
+        "image": "",
         "isHorizontal": false
       }
     },
-    "name": "Meryth le précepteur",
+    "name": "Serment de Babil",
     "type": "Main Deck",
-    "cost": 0
+    "subTypes": "Soutien - Piaf",
+    "cost": 3,
+    "power": 0
   },
   "16": {
     "id": "16",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Domaine Zora",
+        "name": "Serment Éternel de Babil",
         "type": "Main Deck",
-        "cost": 0,
-        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/Domaine%20Zora.jpg?raw=true",
+        "subTypes": "Soutien - Piaf",
+        "cost": 5,
+        "power": 0,
+        "image": "",
         "isHorizontal": false
       }
     },
-    "name": "Domaine Zora",
+    "name": "Serment Éternel de Babil",
     "type": "Main Deck",
-    "cost": 0
+    "subTypes": "Soutien - Piaf",
+    "cost": 5,
+    "power": 0
+  },
+  "17": {
+    "id": "17",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sanctuaire Piaf",
+        "type": "Deck Sanctuaire",
+        "subTypes": "Sanctuaire - Piaf",
+        "cost": 0,
+        "power": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sanctuaire Piaf",
+    "type": "Deck Sanctuaire",
+    "subTypes": "Sanctuaire - Piaf",
+    "cost": 0,
+    "power": 0
+  },
+  "18": {
+    "id": "18",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Revali, Prodige Piaf",
+        "type": "Hero Deck",
+        "subTypes": "Héros - Piaf / Prodige",
+        "cost": 0,
+        "power": 15,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Revali, Prodige Piaf",
+    "type": "Hero Deck",
+    "subTypes": "Héros - Piaf / Prodige",
+    "cost": 0,
+    "power": 15
+  },
+  "19": {
+    "id": "19",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Babil, Sage du Vent",
+        "type": "Hero Deck",
+        "subTypes": "Héros - Piaf / Sage",
+        "cost": 0,
+        "power": 13,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Babil, Sage du Vent",
+    "type": "Hero Deck",
+    "subTypes": "Héros - Piaf / Sage",
+    "cost": 0,
+    "power": 13
+  },
+  "20": {
+    "id": "20",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vah'medoh",
+        "type": "Deck Divinite",
+        "subTypes": "Créature Divine - Piaf",
+        "cost": 0,
+        "power": 10,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vah'medoh",
+    "type": "Deck Divinite",
+    "subTypes": "Créature Divine - Piaf",
+    "cost": 0,
+    "power": 10
+  },
+  "21": {
+    "id": "21",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Triforce du Courage",
+        "type": "Triforce - Courage",
+        "subTypes": "Triforce - Courage",
+        "cost": 0,
+        "power": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Triforce du Courage",
+    "type": "Triforce - Courage",
+    "subTypes": "Triforce - Courage",
+    "cost": 0,
+    "power": 0
+  },
+  "22": {
+    "id": "22",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Triforce de la Sagesse",
+        "type": "Triforce - Sagesse",
+        "subTypes": "Triforce - Sagesse",
+        "cost": 0,
+        "power": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Triforce de la Sagesse",
+    "type": "Triforce - Sagesse",
+    "subTypes": "Triforce - Sagesse",
+    "cost": 0,
+    "power": 0
+  },
+  "23": {
+    "id": "23",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Triforce de la Force",
+        "type": "Triforce - Force",
+        "subTypes": "Triforce - Force",
+        "cost": 0,
+        "power": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Triforce de la Force",
+    "type": "Triforce - Force",
+    "subTypes": "Triforce - Force",
+    "cost": 0,
+    "power": 0
   }
-}
+  }
