@@ -2001,8 +2001,8 @@
       "front": {
         "name": "Ganondorf, Roi Démon",
         "type": "Main Deck",
-        "subTypes": "Guerrier - Ganon / Ganondorf",
-        "cost": 0,
+        "subTypes": "Héros - Ganon / Ganondorf",
+        "cost": "12",
         "power": 14,
         "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GANON/Ganondorf%2C%20Roi%20D%C3%A9mon.jpg",
         "isHorizontal": false
@@ -2012,7 +2012,7 @@
     "type": "Main Deck",
     "subTypes": "Guerrier - Ganon / Ganondorf",
     "cost": 0,
-    "power": 14,
+    "power": "6",
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GANON/Ganondorf%2C%20Roi%20D%C3%A9mon.jpg"
   },
   "97": {
@@ -2432,7 +2432,7 @@
     "type": "Main Deck",
     "subTypes": "Guerrier - Ganon / Gardien / Fléau",
     "cost": 5,
-    "power": 6,
+    "power": "5",
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GANON/Emprise%20de%20Ganon.jpg"
   },
   "117": {
