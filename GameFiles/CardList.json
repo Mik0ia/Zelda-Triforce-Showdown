@@ -3736,5 +3736,43 @@
     "cost": 8,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/SONEAU/L%27arme%20Ultime%20des%20Yiga.jpg"
+  },
+  "179": {
+    "id": "179",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Serment de Sidon",
+        "type": "Main Deck",
+        "cost": "3",
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/ZORA/Serment%20de%20Sidon.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Serment de Sidon",
+    "type": "Main Deck",
+    "cost": "3",
+    "subTypes": "Zora",
+    "power": 0,
+    "image": ""
+  },
+  "180": {
+    "id": "180",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Serment Éternel de Sidon",
+        "type": "Main Deck",
+        "cost": "5",
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/ZORA/Serment%20%C3%89ternel%20de%20Sidon.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Serment Éternel de Sidon",
+    "type": "Main Deck",
+    "cost": "5",
+    "subTypes": "",
+    "power": 0,
+    "image": ""
   }
 }
