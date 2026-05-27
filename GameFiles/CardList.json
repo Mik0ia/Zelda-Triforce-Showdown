@@ -2000,8 +2000,8 @@
     "face": {
       "front": {
         "name": "Ganondorf, Roi Démon",
-        "type": "Hero Deck",
-        "subTypes": "Héros - Ganon / Ganondorf",
+        "type": "Main Deck",
+        "subTypes": "Guerrier - Ganon / Ganondorf",
         "cost": 0,
         "power": 14,
         "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GANON/Ganondorf%2C%20Roi%20D%C3%A9mon.jpg",
@@ -2009,8 +2009,8 @@
       }
     },
     "name": "Ganondorf, Roi Démon",
-    "type": "Hero Deck",
-    "subTypes": "Héros - Ganon / Ganondorf",
+    "type": "Main Deck",
+    "subTypes": "Guerrier - Ganon / Ganondorf",
     "cost": 0,
     "power": 14,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GANON/Ganondorf%2C%20Roi%20D%C3%A9mon.jpg"
