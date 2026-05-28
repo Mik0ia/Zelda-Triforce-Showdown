@@ -19,10 +19,56 @@
   "deckBuilding": {
     "mainFilters": [
       "Main Deck",
-      "Triforce",
+      "Triforce - Courage",
+      "Triforce - Sagesse",
+      "Triforce - Force",
       "Hero Deck",
       "Deck Sanctuaire",
       "Deck Divinite"
+    ],
+    "secondaryFilters": [
+      "Guerrier - Piaf",
+      "Guerrier - Piaf / Prodige",
+      "Guerrier - Zora",
+      "Guerrier - Zora / Prodige",
+      "Guerrier - Goron",
+      "Guerrier - Gerudo",
+      "Guerrier - Ganon",
+      "Guerrier - Ganon / Hinox",
+      "Guerrier - Hylien / Chevalier",
+      "Guerrier - Hylien / Prodige",
+      "Lieu - Piaf",
+      "Lieu - Zora",
+      "Lieu - Gerudo",
+      "Temple - Piaf",
+      "Temple - Zora",
+      "Temple - Goron",
+      "Temple - Gerudo",
+      "Équipement - Piaf",
+      "Équipement - Zora",
+      "Équipement - Goron",
+      "Équipement - Gerudo",
+      "Soutien - Piaf",
+      "Soutien - Goron",
+      "Soutien - Gerudo",
+      "Soutien - Sheikah",
+      "Soutien - Hylien",
+      "Sanctuaire - Piaf",
+      "Sanctuaire - Zora",
+      "Sanctuaire - Goron",
+      "Sanctuaire - Gerudo",
+      "Héros - Piaf / Prodige",
+      "Héros - Piaf / Sage",
+      "Héros - Zora / Prodige",
+      "Héros - Zora / Sage",
+      "Héros - Goron / Prodige",
+      "Héros - Goron / Sage",
+      "Héros - Gerudo / Prodige",
+      "Héros - Gerudo / Sage",
+      "Créature Divine - Piaf",
+      "Créature Divine - Zora",
+      "Créature Divine - Goron",
+      "Créature Divine - Gerudo"
     ],
     "formats": [
       {
@@ -36,16 +82,18 @@
         },
         "customCategories": [
           "Deck Sanctuaire",
-          "Creature Divine",
+          "Deck Divinite",
           "Hero Deck",
-          "Triforce"
+          "Triforce - Courage",
+          "Triforce - Sagesse",
+          "Triforce - Force"
         ],
         "customCategoriesConstraints": {
           "Deck Sanctuaire": {
             "min": 12,
             "max": 12
           },
-          "Creature Divine": {
+          "Deck Divinite": {
             "min": 1,
             "max": 1
           },
@@ -53,9 +101,17 @@
             "min": 2,
             "max": 2
           },
-          "Triforce": {
-            "min": 3,
-            "max": 3
+          "Triforce - Courage": {
+            "min": 1,
+            "max": 1
+          },
+          "Triforce - Sagesse": {
+            "min": 1,
+            "max": 1
+          },
+          "Triforce - Force": {
+            "min": 1,
+            "max": 1
           }
         }
       }
@@ -98,7 +154,8 @@
           "Triforce - Sagesse",
           "Triforce - Force",
           "Creature Divine",
-          "Deck_Sanctuaire"
+          "Deck_Sanctuaire",
+          "Compteurs"
         ],
         "layout": {
           "direction": "column",
@@ -163,6 +220,17 @@
                 }
               ],
               "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "row",
+              "style": false,
+              "content": [
+                {
+                  "section": "Compteurs",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": false
             }
           ]
         },
@@ -170,12 +238,14 @@
           "Deck Sanctuaire->Deck_Sanctuaire",
           "Hero Deck->Heros",
           "Deck Divinite->Creature Divine",
-          "Triforce - Courage",
-          "Triforce - Sagesse",
-          "Triforce - Force"
+          "Triforce - Courage->Triforce - Courage",
+          "Triforce - Sagesse->Triforce - Sagesse",
+          "Triforce - Force->Triforce - Force"
         ],
         "autoPlayFromHand": {},
-        "autoPlayFromStack": {},
+        "autoPlayFromStack": {
+          "Deck_Sanctuaire": "Sanctuaires"
+        },
         "sectionsDict": {
           "Terrain": {
             "title": "Terrain",
@@ -304,6 +374,59 @@
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
+          },
+          "Compteurs": {
+            "type": "custom",
+            "defaultValue": {
+              "essence": 0,
+              "korogu": 0
+            },
+            "blueprint": {
+              "type": "div",
+              "props": {
+                "style": {
+                  "width": "100%"
+                },
+                "className": "box-container align-items-center text-nowrap gap-3 p-1 ps-2 flex-wrap"
+              },
+              "children": [
+                {
+                  "type": "div",
+                  "props": {
+                    "className": "box-container align-items-center gap-1"
+                  },
+                  "children": [
+                    "✨ Essence :",
+                    {
+                      "type": "input-number",
+                      "props": {
+                        "value": "{{game.data.Compteurs.essence}}"
+                      },
+                      "onChange": "game.data.Compteurs.essence = value; chatLog('Essence : ' + value + ' (' + (delta > 0 ? '+' + delta : delta) + ')')"
+                    }
+                  ]
+                },
+                {
+                  "type": "div",
+                  "props": {
+                    "className": "box-container align-items-center gap-1"
+                  },
+                  "children": [
+                    "🌿 Noix Korogu :",
+                    {
+                      "type": "input-number",
+                      "props": {
+                        "value": "{{game.data.Compteurs.korogu}}"
+                      },
+                      "onChange": "game.data.Compteurs.korogu = value; chatLog('Noix Korogu : ' + value + ' (' + (delta > 0 ? '+' + delta : delta) + ')')"
+                    }
+                  ]
+                }
+              ]
+            },
+            "events": {
+              "onNewTurn": "game.data.Compteurs.essence = 0"
+            }
           }
         }
       }
