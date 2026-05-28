@@ -3774,5 +3774,225 @@
     "subTypes": "",
     "power": 0,
     "image": ""
+  },
+  "181": {
+    "id": "181",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lynel Rouge",
+        "type": "Main Deck",
+        "subTypes": "Guerrier - Ganon",
+        "cost": 4,
+        "power": 4,
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/GANON/Lynel%20Rouge.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lynel Rouge",
+    "type": "Main Deck",
+    "subTypes": "Guerrier - Ganon",
+    "cost": 4,
+    "power": 4
+  },
+  "182": {
+    "id": "182",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lynel Argenté",
+        "type": "Main Deck",
+        "subTypes": "Guerrier - Ganon",
+        "cost": 7,
+        "power": 7,
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/GANON/Lynel%20Argent%C3%A9.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lynel Argenté",
+    "type": "Main Deck",
+    "subTypes": "Guerrier - Ganon",
+    "cost": 7,
+    "power": 7
+  },
+  "183": {
+    "id": "183",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lynel Doré",
+        "type": "Main Deck",
+        "subTypes": "Guerrier - Ganon",
+        "cost": 8,
+        "power": 8,
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/GANON/Lynel%20Dor%C3%A9.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lynel Doré",
+    "type": "Main Deck",
+    "subTypes": "Guerrier - Ganon",
+    "cost": 8,
+    "power": 8
+  },
+  "184": {
+    "id": "184",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Roi Griok",
+        "type": "Main Deck",
+        "subTypes": "Guerrier - Ganon",
+        "cost": 8,
+        "power": 6,
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/GANON/Roi%20Griok.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Roi Griok",
+    "type": "Main Deck",
+    "subTypes": "Guerrier - Ganon",
+    "cost": 8,
+    "power": 6
+  },
+  "185": {
+    "id": "185",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hinox Rouge",
+        "type": "Main Deck",
+        "subTypes": "Guerrier - Ganon / Hinox",
+        "cost": 3,
+        "power": 2,
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/GANON/Hinox%20Rouge.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hinox Rouge",
+    "type": "Main Deck",
+    "subTypes": "Guerrier - Ganon / Hinox",
+    "cost": 3,
+    "power": 2
+  },
+  "186": {
+    "id": "186",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hinox Bleu",
+        "type": "Main Deck",
+        "subTypes": "Guerrier - Ganon / Hinox",
+        "cost": 4,
+        "power": 3,
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/GANON/Hinox%20Bleu.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hinox Bleu",
+    "type": "Main Deck",
+    "subTypes": "Guerrier - Ganon / Hinox",
+    "cost": 4,
+    "power": 3
+  },
+  "187": {
+    "id": "187",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hinox Noir",
+        "type": "Main Deck",
+        "subTypes": "Guerrier - Ganon / Hinox",
+        "cost": 5,
+        "power": 4,
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/GANON/Hinox%20Noir.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hinox Noir",
+    "type": "Main Deck",
+    "subTypes": "Guerrier - Ganon / Hinox",
+    "cost": 5,
+    "power": 4
+  },
+  "188": {
+    "id": "188",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Chef Boko",
+        "type": "Main Deck",
+        "subTypes": "Guerrier - Ganon",
+        "cost": 3,
+        "power": 1,
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/GANON/Chef%20Boko.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chef Boko",
+    "type": "Main Deck",
+    "subTypes": "Guerrier - Ganon",
+    "cost": 3,
+    "power": 1
+  },
+  "189": {
+    "id": "189",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Chef Boko Bleu",
+        "type": "Main Deck",
+        "subTypes": "Guerrier - Ganon",
+        "cost": 4,
+        "power": 2,
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/GANON/Chef%20Boko%20Bleu.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chef Boko Bleu",
+    "type": "Main Deck",
+    "subTypes": "Guerrier - Ganon",
+    "cost": 4,
+    "power": 2
+  },
+  "190": {
+    "id": "190",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Chef Boko Noir",
+        "type": "Main Deck",
+        "subTypes": "Guerrier - Ganon",
+        "cost": 5,
+        "power": 3,
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/GANON/Chef%20Boko%20Noir.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chef Boko Noir",
+    "type": "Main Deck",
+    "subTypes": "Guerrier - Ganon",
+    "cost": 5,
+    "power": 3
+  },
+  "191": {
+    "id": "191",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Chef Boko d'Argent",
+        "type": "Main Deck",
+        "subTypes": "Guerrier - Ganon",
+        "cost": 6,
+        "power": 4,
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/GANON/Chef%20Boko%20d%27Argent.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chef Boko d'Argent",
+    "type": "Main Deck",
+    "subTypes": "Guerrier - Ganon",
+    "cost": 6,
+    "power": 4
   }
 }
