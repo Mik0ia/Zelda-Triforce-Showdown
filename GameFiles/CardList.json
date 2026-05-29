@@ -2445,7 +2445,7 @@
         "subTypes": "Guerrier - Ganon / Gardien / Fléau",
         "cost": 3,
         "power": 1,
-        "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GANON/R%C3%A9c%C3%A9ptacle%20du%20fl%C3%A9au.jpg",
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/GANON/R%C3%A9c%C3%A9ptacle%20du%20fl%C3%A9au.png?raw=true",
         "isHorizontal": false
       }
     },
@@ -2863,7 +2863,7 @@
         "name": "Emprisonnement",
         "type": "Main Deck",
         "subTypes": "Soutien - Ganon",
-        "cost": 3,
+        "cost": "4",
         "power": 0,
         "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GANON/Emprisonnement.jpg",
         "isHorizontal": false
@@ -2872,7 +2872,7 @@
     "name": "Emprisonnement",
     "type": "Main Deck",
     "subTypes": "Soutien - Ganon",
-    "cost": 3,
+    "cost": "4",
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GANON/Emprisonnement.jpg"
   },
@@ -3094,7 +3094,7 @@
         "name": "Emprisonnement du Mal",
         "type": "Main Deck",
         "subTypes": "Soutien - Soneau",
-        "cost": 2,
+        "cost": "3",
         "power": 0,
         "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/SONEAU/Emprisonnement%20du%20Mal.jpg",
         "isHorizontal": false
@@ -3103,7 +3103,7 @@
     "name": "Emprisonnement du Mal",
     "type": "Main Deck",
     "subTypes": "Soutien - Soneau",
-    "cost": 2,
+    "cost": "3",
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/SONEAU/Emprisonnement%20du%20Mal.jpg"
   },
