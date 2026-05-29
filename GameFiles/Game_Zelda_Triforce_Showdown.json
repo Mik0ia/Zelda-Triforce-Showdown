@@ -431,7 +431,7 @@
                     "className": "box-container align-items-center gap-1"
                   },
                   "children": [
-                    "🌿 Noix Korogu :",
+                    "Noix Korogu",
                     {
                       "type": "input-number",
                       "props": {
