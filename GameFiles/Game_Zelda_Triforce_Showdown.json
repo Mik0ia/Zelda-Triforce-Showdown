@@ -139,6 +139,42 @@
           "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/OTHERS/TOKEN_Korogu.png?raw=true",
           "isUnique": false,
           "leavesAtEndOfTurn": false
+        },
+        {
+          "name": "Lune de Sang",
+          "image": "",
+          "isUnique": false,
+          "leavesAtEndOfTurn": false
+        },
+        {
+          "name": "Coeur",
+          "image": "",
+          "isUnique": false,
+          "leavesAtEndOfTurn": false
+        },
+        {
+          "name": "Bouclier",
+          "image": "",
+          "isUnique": false,
+          "leavesAtEndOfTurn": false
+        },
+        {
+          "name": "Force",
+          "image": "",
+          "isUnique": false,
+          "leavesAtEndOfTurn": false
+        },
+        {
+          "name": "Sidon",
+          "image": "",
+          "isUnique": false,
+          "leavesAtEndOfTurn": false
+        },
+        {
+          "name": "Flèche",
+          "image": "",
+          "isUnique": false,
+          "leavesAtEndOfTurn": false
         }
       ],
       "countersStartingValues": [
@@ -378,7 +414,6 @@
           "Compteurs": {
             "type": "custom",
             "defaultValue": {
-              "essence": 0,
               "korogu": 0
             },
             "blueprint": {
@@ -390,22 +425,6 @@
                 "className": "box-container align-items-center text-nowrap gap-3 p-1 ps-2 flex-wrap"
               },
               "children": [
-                {
-                  "type": "div",
-                  "props": {
-                    "className": "box-container align-items-center gap-1"
-                  },
-                  "children": [
-                    "✨ Essence :",
-                    {
-                      "type": "input-number",
-                      "props": {
-                        "value": "{{game.data.Compteurs.essence}}"
-                      },
-                      "onChange": "game.data.Compteurs.essence = value; chatLog('Essence : ' + value + ' (' + (delta > 0 ? '+' + delta : delta) + ')')"
-                    }
-                  ]
-                },
                 {
                   "type": "div",
                   "props": {
@@ -424,9 +443,7 @@
                 }
               ]
             },
-            "events": {
-              "onNewTurn": "game.data.Compteurs.essence = 0"
-            }
+            "events": {}
           }
         }
       }
