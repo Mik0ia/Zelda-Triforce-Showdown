@@ -132,45 +132,36 @@
         "firstPlayerTokenName": "",
         "drawPerTurn": 1
       },
-      "defaultNotes": "",
-      "tokens": [
-        {
-          "name": "Korogu",
-          "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/OTHERS/TOKEN_Korogu.png?raw=true",
-          "isUnique": false,
-          "leavesAtEndOfTurn": false
-        }
-      ],
       "draggableTokens": [
         {
           "id": "LuneDeSang",
           "name": "Lune de Sang",
-          "image": ""
+          "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/OTHERS/TOKEN_LuneDeSang.png?raw=true"
         },
         {
           "id": "Coeur",
           "name": "Coeur",
-          "image": ""
+          "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/OTHERS/TOKEN_Hp.png?raw=true"
         },
         {
           "id": "Bouclier",
           "name": "Bouclier",
-          "image": ""
+          "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/OTHERS/TOKEN_Shield.png?raw=true"
         },
         {
           "id": "Force",
           "name": "Force",
-          "image": ""
+          "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/OTHERS/TOKEN_Force.png?raw=true"
         },
         {
           "id": "Sidon",
           "name": "Sidon",
-          "image": ""
+          "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/OTHERS/TOKEN_Sidon.png?raw=true"
         },
         {
           "id": "Fleche",
           "name": "Flèche",
-          "image": ""
+          "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/OTHERS/TOKEN_Fleche.png?raw=true"
         }
       ],
       "countersStartingValues": [
