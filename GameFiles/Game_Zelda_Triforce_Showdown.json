@@ -139,42 +139,38 @@
           "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/OTHERS/TOKEN_Korogu.png?raw=true",
           "isUnique": false,
           "leavesAtEndOfTurn": false
-        },
+        }
+      ],
+      "draggableTokens": [
         {
+          "id": "LuneDeSang",
           "name": "Lune de Sang",
-          "image": "",
-          "isUnique": false,
-          "leavesAtEndOfTurn": false
+          "image": ""
         },
         {
+          "id": "Coeur",
           "name": "Coeur",
-          "image": "",
-          "isUnique": false,
-          "leavesAtEndOfTurn": false
+          "image": ""
         },
         {
+          "id": "Bouclier",
           "name": "Bouclier",
-          "image": "",
-          "isUnique": false,
-          "leavesAtEndOfTurn": false
+          "image": ""
         },
         {
+          "id": "Force",
           "name": "Force",
-          "image": "",
-          "isUnique": false,
-          "leavesAtEndOfTurn": false
+          "image": ""
         },
         {
+          "id": "Sidon",
           "name": "Sidon",
-          "image": "",
-          "isUnique": false,
-          "leavesAtEndOfTurn": false
+          "image": ""
         },
         {
+          "id": "Fleche",
           "name": "Flèche",
-          "image": "",
-          "isUnique": false,
-          "leavesAtEndOfTurn": false
+          "image": ""
         }
       ],
       "countersStartingValues": [
@@ -431,7 +427,7 @@
                     "className": "box-container align-items-center gap-1"
                   },
                   "children": [
-                    "Noix Korogu",
+                    "🌿 Noix Korogu :",
                     {
                       "type": "input-number",
                       "props": {
