@@ -139,6 +139,11 @@
           "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/OTHERS/TOKEN_LuneDeSang.png?raw=true"
         },
         {
+          "id": "Fureur",
+          "name": "Fureur",
+          "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/OTHERS/TOKEN_Fureur.png?raw=true"
+        },
+        {
           "id": "Coeur",
           "name": "Coeur",
           "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/OTHERS/TOKEN_Hp.png?raw=true"
