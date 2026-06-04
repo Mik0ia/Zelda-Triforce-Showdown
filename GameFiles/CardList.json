@@ -489,7 +489,7 @@
       "front": {
         "name": "Link, Chevalier Hylien",
         "type": "Main Deck",
-        "subTypes": "Guerrier - Hylien / Chevalier",
+        "subTypes": "Guerrier - Hyrule / Chevalier",
         "cost": 3,
         "power": 2,
         "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/HYRULE/Link%2C%20Chevalier%20Hylien.jpg",
@@ -498,7 +498,7 @@
     },
     "name": "Link, Chevalier Hylien",
     "type": "Main Deck",
-    "subTypes": "Guerrier - Hylien / Chevalier",
+    "subTypes": "Guerrier - Hyrule / Chevalier",
     "cost": 3,
     "power": 2,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/HYRULE/Link%2C%20Chevalier%20Hylien.jpg"
@@ -3994,5 +3994,126 @@
     "subTypes": "Guerrier - Ganon",
     "cost": 6,
     "power": 4
+  },
+    "192": {
+    "id": "192",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Massue Miasmatique",
+        "type": "Main Deck",
+        "subTypes": "Équipement - Ganon",
+        "cost": 4,
+        "power": 0,
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/GANON/Massue%20Miasmatique.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Massue Miasmatique",
+    "type": "Main Deck",
+    "subTypes": "Équipement - Ganon",
+    "cost": 4,
+    "power": 0
+  },
+    "193": {
+    "id": "193",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Infiltration",
+        "type": "Main Deck",
+        "subTypes": "Soutien - Soneau",
+        "cost": 0,
+        "power": 0,
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/SONEAU/Infiltration.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Infiltration",
+    "type": "Main Deck",
+    "subTypes": "Soutien - Soneau",
+    "cost": 0,
+    "power": 0
+  },
+    "194": {
+    "id": "194",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rétrospective",
+        "type": "Main Deck",
+        "subTypes": "Soutien - Soneau",
+        "cost": 0,
+        "power": 0,
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/SONEAU/R%C3%A9trospective.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Infiltration",
+    "type": "Main Deck",
+    "subTypes": "Soutien - Soneau",
+    "cost": 0,
+    "power": 0
+  },
+    "195": {
+    "id": "195",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Emprise",
+        "type": "Main Deck",
+        "subTypes": "Soutien - Soneau",
+        "cost": 0,
+        "power": 0,
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/SONEAU/Emprise.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Emprise",
+    "type": "Main Deck",
+    "subTypes": "Soutien - Soneau",
+    "cost": 0,
+    "power": 0
+  },
+    "196": {
+    "id": "196",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Duplicata",
+        "type": "Main Deck",
+        "subTypes": "Soutien - Soneau",
+        "cost": 0,
+        "power": 0,
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/SONEAU/Duplicata.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Duplicata",
+    "type": "Main Deck",
+    "subTypes": "Soutien - Soneau",
+    "cost": 0,
+    "power": 0
+  },    
+    "197": {
+    "id": "197",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lueur Bienfaisante",
+        "type": "Main Deck",
+        "subTypes": "Soutien - Hyrule",
+        "cost": 0,
+        "power": 0,
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/SONEAU/Lueur%20Bienfaisante.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lueur Bienfaisante",
+    "type": "Main Deck",
+    "subTypes": "Soutien - Hyrule",
+    "cost": 0,
+    "power": 0
   }
+
 }
