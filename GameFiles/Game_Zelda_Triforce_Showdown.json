@@ -78,6 +78,14 @@
           "main": {
             "min": 45,
             "max": 45
+          },
+          "cardCopiesConstraints": {
+            "default": 3,
+            "exceptions": {
+              "Lueur Bienfaisante": 4,
+              "Emblème du Triomphe": 4,
+              "Garde Gerudo": -1
+            }
           }
         },
         "customCategories": [
