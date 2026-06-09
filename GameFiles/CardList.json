@@ -4534,5 +4534,205 @@
     "subTypes": "Soutien - Korogu",
     "cost": 3,
     "power": 0
+  },
+  "219": {
+    "id": "219",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zelda, Princesse d'Hyrule",
+        "type": "Hero Deck",
+        "subTypes": "Héros - Hyrule / Prodige",
+        "cost": 0,
+        "power": 12,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zelda, Princesse d'Hyrule",
+    "type": "Hero Deck",
+    "subTypes": "Héros - Hyrule / Prodige",
+    "cost": 0,
+    "power": 12
+  },
+  "220": {
+    "id": "220",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Roi Rhoam",
+        "type": "Hero Deck",
+        "subTypes": "Héros - Hyrule / Prodige",
+        "cost": 0,
+        "power": 14,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Roi Rhoam",
+    "type": "Hero Deck",
+    "subTypes": "Héros - Hyrule / Prodige",
+    "cost": 0,
+    "power": 14
+  },
+  "221": {
+    "id": "221",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zelda, Sage du Temps",
+        "type": "Hero Deck",
+        "subTypes": "Héros - Hyrule",
+        "cost": 0,
+        "power": 11,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zelda, Sage du Temps",
+    "type": "Hero Deck",
+    "subTypes": "Héros - Hyrule",
+    "cost": 0,
+    "power": 11
+  },
+  "222": {
+    "id": "222",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Link, Prodige Hylien",
+        "type": "Hero Deck",
+        "subTypes": "Héros - Hyrule",
+        "cost": 0,
+        "power": 14,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Link, Prodige Hylien",
+    "type": "Hero Deck",
+    "subTypes": "Héros - Hyrule",
+    "cost": 0,
+    "power": 14
+  },
+  "223": {
+    "id": "223",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Link, Héros Céleste",
+        "type": "Hero Deck",
+        "subTypes": "Héros - Hyrule",
+        "cost": 0,
+        "power": 15,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Link, Héros Céleste",
+    "type": "Hero Deck",
+    "subTypes": "Héros - Hyrule",
+    "cost": 0,
+    "power": 15
+  },
+  "224": {
+    "id": "224",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Link, Héros Purificateur",
+        "type": "Hero Deck",
+        "subTypes": "Héros - Hyrule",
+        "cost": 0,
+        "power": 16,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Link, Héros Purificateur",
+    "type": "Hero Deck",
+    "subTypes": "Héros - Hyrule",
+    "cost": 0,
+    "power": 16
+  },
+  "225": {
+    "id": "225",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zelda",
+        "type": "Deck Divinite",
+        "subTypes": "Créature Divine - Hyrule",
+        "cost": 8,
+        "power": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zelda",
+    "type": "Deck Divinite",
+    "subTypes": "Créature Divine - Hyrule",
+    "cost": 8,
+    "power": 0
+  },
+  "226": {
+    "id": "226",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Link",
+        "type": "Deck Divinite",
+        "subTypes": "Créature Divine - Hyrule",
+        "cost": 8,
+        "power": 6,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Link",
+    "type": "Deck Divinite",
+    "subTypes": "Créature Divine - Hyrule",
+    "cost": 8,
+    "power": 6
+  },
+  "227": {
+    "id": "227",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sanctuaire d'Hyrule",
+        "type": "Deck Sanctuaire",
+        "subTypes": "Sanctuaire - Hyrule",
+        "cost": 0,
+        "power": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sanctuaire d'Hyrule",
+    "type": "Deck Sanctuaire",
+    "subTypes": "Sanctuaire - Hyrule",
+    "cost": 0,
+    "power": 0
+  },
+  "228": {
+    "id": "228",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Temple d'Hyrule",
+        "type": "Main Deck",
+        "subTypes": "Temple - Hyrule",
+        "cost": 0,
+        "power": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Temple d'Hyrule",
+    "type": "Main Deck",
+    "subTypes": "Temple - Hyrule",
+    "cost": 0,
+    "power": 0
   }
 }
