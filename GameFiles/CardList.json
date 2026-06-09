@@ -3995,7 +3995,7 @@
     "cost": 6,
     "power": 4
   },
-    "192": {
+  "192": {
     "id": "192",
     "isToken": false,
     "face": {
@@ -4015,7 +4015,7 @@
     "cost": 4,
     "power": 0
   },
-    "193": {
+  "193": {
     "id": "193",
     "isToken": false,
     "face": {
@@ -4035,7 +4035,7 @@
     "cost": 0,
     "power": 0
   },
-    "194": {
+  "194": {
     "id": "194",
     "isToken": false,
     "face": {
@@ -4055,7 +4055,7 @@
     "cost": 0,
     "power": 0
   },
-    "195": {
+  "195": {
     "id": "195",
     "isToken": false,
     "face": {
@@ -4075,7 +4075,7 @@
     "cost": 0,
     "power": 0
   },
-    "196": {
+  "196": {
     "id": "196",
     "isToken": false,
     "face": {
@@ -4094,8 +4094,8 @@
     "subTypes": "Soutien - Soneau",
     "cost": 0,
     "power": 0
-  },    
-    "197": {
+  },
+  "197": {
     "id": "197",
     "isToken": false,
     "face": {
@@ -4114,6 +4114,425 @@
     "subTypes": "Soutien - Hyrule",
     "cost": 0,
     "power": 0
+  },
+  "198": {
+    "id": "198",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Noïa, Musicien Korogu",
+        "type": "Hero Deck",
+        "subTypes": "Héros - Korogu",
+        "cost": 0,
+        "power": 13,
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/KOROGU/No%C3%AFa%2C%20Musicien%20Korogu.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Noïa, Musicien Korogu",
+    "type": "Hero Deck",
+    "subTypes": "Héros - Korogu",
+    "cost": 0,
+    "power": 13
+  },
+  "199": {
+    "id": "199",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vénérable Arbre Mojo",
+        "type": "Hero Deck",
+        "subTypes": "Héros - Korogu",
+        "cost": 0,
+        "power": 17,
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/KOROGU/V%C3%A9n%C3%A9rable%20Arbre%20Mojo.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vénérable Arbre Mojo",
+    "type": "Hero Deck",
+    "subTypes": "Héros - Korogu",
+    "cost": 0,
+    "power": 17
+  },
+  "200": {
+    "id": "200",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sanctuaire Korogu",
+        "type": "Deck Sanctuaire",
+        "subTypes": "Sanctuaire - Korogu",
+        "cost": 0,
+        "power": 0,
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/KOROGU/Sanctuaire%20Korogu.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sanctuaire Korogu",
+    "type": "Deck Sanctuaire",
+    "subTypes": "Sanctuaire - Korogu",
+    "cost": 0,
+    "power": 0
+  },
+  "201": {
+    "id": "201",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dans l'Arbre Mojo",
+        "type": "Main Deck",
+        "subTypes": "Temple - Korogu",
+        "cost": 0,
+        "power": 0,
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/KOROGU/Dans%20l%27Arbre%20Mojo.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dans l'Arbre Mojo",
+    "type": "Main Deck",
+    "subTypes": "Temple - Korogu",
+    "cost": 0,
+    "power": 0
+  },
+  "202": {
+    "id": "202",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Forêt Korogu",
+        "type": "Main Deck",
+        "subTypes": "Lieu - Korogu",
+        "cost": 2,
+        "power": 0,
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/KOROGU/For%C3%AAt%20Korogu.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Forêt Korogu",
+    "type": "Main Deck",
+    "subTypes": "Lieu - Korogu",
+    "cost": 2,
+    "power": 0
+  },
+  "203": {
+    "id": "203",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Petit Korogu",
+        "type": "Main Deck",
+        "subTypes": "Guerrier - Korogu",
+        "cost": 1,
+        "power": 1,
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/KOROGU/Petit%20Korogu.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Petit Korogu",
+    "type": "Main Deck",
+    "subTypes": "Guerrier - Korogu",
+    "cost": 1,
+    "power": 1
+  },
+  "204": {
+    "id": "204",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jeune Korogu",
+        "type": "Main Deck",
+        "subTypes": "Guerrier - Korogu",
+        "cost": 1,
+        "power": 1,
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/KOROGU/Jeune%20Korogu.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jeune Korogu",
+    "type": "Main Deck",
+    "subTypes": "Guerrier - Korogu",
+    "cost": 1,
+    "power": 1
+  },
+  "205": {
+    "id": "205",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Calamo, guerrier korogu",
+        "type": "Main Deck",
+        "subTypes": "Guerrier - Korogu",
+        "cost": 4,
+        "power": 3,
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/KOROGU/Calamo%2C%20guerrier%20korogu.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Calamo, guerrier korogu",
+    "type": "Main Deck",
+    "subTypes": "Guerrier - Korogu",
+    "cost": 4,
+    "power": 3
+  },
+  "206": {
+    "id": "206",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Korogu Volant",
+        "type": "Main Deck",
+        "subTypes": "Guerrier - Korogu",
+        "cost": 1,
+        "power": 1,
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/KOROGU/Korogu%20Volant.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Korogu Volant",
+    "type": "Main Deck",
+    "subTypes": "Guerrier - Korogu",
+    "cost": 1,
+    "power": 1
+  },
+  "207": {
+    "id": "207",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Korogu de la forêt",
+        "type": "Main Deck",
+        "subTypes": "Guerrier - Korogu",
+        "cost": 2,
+        "power": 1,
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/KOROGU/Korogu%20de%20la%20for%C3%AAt.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Korogu de la forêt",
+    "type": "Main Deck",
+    "subTypes": "Guerrier - Korogu",
+    "cost": 2,
+    "power": 1
+  },
+  "208": {
+    "id": "208",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Papistus, vieux korogu",
+        "type": "Main Deck",
+        "subTypes": "Guerrier - Korogu",
+        "cost": 2,
+        "power": 0,
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/KOROGU/Papistus%2C%20vieux%20korogu.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Papistus, vieux korogu",
+    "type": "Main Deck",
+    "subTypes": "Guerrier - Korogu",
+    "cost": 2,
+    "power": 0
+  },
+  "209": {
+    "id": "209",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Noïa, le korogu géant",
+        "type": "Main Deck",
+        "subTypes": "Guerrier - Korogu",
+        "cost": 4,
+        "power": 1,
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/KOROGU/No%C3%AFa%2C%20le%20korogu%20g%C3%A9ant.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Noïa, le korogu géant",
+    "type": "Main Deck",
+    "subTypes": "Guerrier - Korogu",
+    "cost": 4,
+    "power": 1
+  },
+  "210": {
+    "id": "210",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Épée des sylvains",
+        "type": "Main Deck",
+        "subTypes": "Équipement - Korogu",
+        "cost": 2,
+        "power": 0,
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/KOROGU/%C3%89p%C3%A9e%20des%20sylvains.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Épée des sylvains",
+    "type": "Main Deck",
+    "subTypes": "Équipement - Korogu",
+    "cost": 2,
+    "power": 0
+  },
+  "211": {
+    "id": "211",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Maracas de Noïa",
+        "type": "Main Deck",
+        "subTypes": "Équipement - Korogu",
+        "cost": 1,
+        "power": 0,
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/KOROGU/Maracas%20de%20No%C3%AFa.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Maracas de Noïa",
+    "type": "Main Deck",
+    "subTypes": "Équipement - Korogu",
+    "cost": 1,
+    "power": 0
+  },
+  "212": {
+    "id": "212",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lance des sylvains",
+        "type": "Main Deck",
+        "subTypes": "Équipement - Korogu",
+        "cost": 2,
+        "power": 0,
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/KOROGU/Lance%20des%20sylvains.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lance des sylvains",
+    "type": "Main Deck",
+    "subTypes": "Équipement - Korogu",
+    "cost": 2,
+    "power": 0
+  },
+  "213": {
+    "id": "213",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Éventail Korogu",
+        "type": "Main Deck",
+        "subTypes": "Équipement - Korogu",
+        "cost": 1,
+        "power": 0,
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/KOROGU/%C3%89ventail%20Korogu.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Éventail Korogu",
+    "type": "Main Deck",
+    "subTypes": "Équipement - Korogu",
+    "cost": 1,
+    "power": 0
+  },
+  "214": {
+    "id": "214",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Arc des sylvains",
+        "type": "Main Deck",
+        "subTypes": "Équipement - Korogu",
+        "cost": 3,
+        "power": 0,
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/KOROGU/Arc%20des%20sylvains.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Arc des sylvains",
+    "type": "Main Deck",
+    "subTypes": "Équipement - Korogu",
+    "cost": 3,
+    "power": 0
+  },
+  "215": {
+    "id": "215",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bouclier des sylvains",
+        "type": "Main Deck",
+        "subTypes": "Équipement - Korogu",
+        "cost": 2,
+        "power": 0,
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/KOROGU/Bouclier%20des%20sylvains.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bouclier des sylvains",
+    "type": "Main Deck",
+    "subTypes": "Équipement - Korogu",
+    "cost": 2,
+    "power": 0
+  },
+  "216": {
+    "id": "216",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Feuilles aux lueurs féériques",
+        "type": "Main Deck",
+        "subTypes": "Soutien - Korogu",
+        "cost": 0,
+        "power": 0,
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/KOROGU/Feuilles%20aux%20lueurs%20f%C3%A9%C3%A9riques.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Feuilles aux lueurs féériques",
+    "type": "Main Deck",
+    "subTypes": "Soutien - Korogu",
+    "cost": 0,
+    "power": 0
+  },
+  "217": {
+    "id": "217",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Relique Korogu",
+        "type": "Main Deck",
+        "subTypes": "Soutien - Korogu",
+        "cost": 1,
+        "power": 0,
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/KOROGU/Relique%20Korogu.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Relique Korogu",
+    "type": "Main Deck",
+    "subTypes": "Soutien - Korogu",
+    "cost": 1,
+    "power": 0
+  },
+  "218": {
+    "id": "218",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Noix de Noïa",
+        "type": "Main Deck",
+        "subTypes": "Soutien - Korogu",
+        "cost": 3,
+        "power": 0,
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/KOROGU/Noix%20de%20No%C3%AFa.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Noix de Noïa",
+    "type": "Main Deck",
+    "subTypes": "Soutien - Korogu",
+    "cost": 3,
+    "power": 0
   }
-
 }
