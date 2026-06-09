@@ -513,7 +513,7 @@
         "subTypes": "Guerrier - Hylien / Prodige",
         "cost": 5,
         "power": 4,
-        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/HYRULE/Link,%20ProdigeHylien.jpg?raw=true",
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/HYRULE/Link,%20Prodige%20Hylien.jpg?raw=true",
         "isHorizontal": false
       }
     },
@@ -4600,16 +4600,16 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Link, Prodige Hylien",
+        "name": "Link, le Prodige",
         "type": "Hero Deck",
         "subTypes": "Héros - Hyrule",
         "cost": 0,
         "power": 14,
-        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/HYRULE/Link,%20Prodige%20Hylien.jpg?raw=true",
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/HYRULE/Link,%20Le%20prodige%20(2).jpg?raw=true",
         "isHorizontal": false
       }
     },
-    "name": "Link, Prodige Hylien",
+    "name": "Link, le Prodige",
     "type": "Hero Deck",
     "subTypes": "Héros - Hyrule",
     "cost": 0,
@@ -4748,6 +4748,25 @@
       }
     },
     "name": "Roi Rhoam",
+    "type": "Hero Deck",
+    "cost": 0,
+    "subTypes": "",
+    "power": "14",
+    "image": ""
+  },
+  "230": {
+    "id": "230",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Link, le Prodige",
+        "type": "Hero Deck",
+        "cost": 0,
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/HYRULE/Link,%20Le%20prodige.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Link, le Prodige",
     "type": "Hero Deck",
     "cost": 0,
     "subTypes": "",
