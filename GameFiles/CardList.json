@@ -513,7 +513,7 @@
         "subTypes": "Guerrier - Hylien / Prodige",
         "cost": 5,
         "power": 4,
-        "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/HYRULE/Link%2C%20Prodige%20Hylien.jpg",
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/HYRULE/Link,%20ProdigeHylien.jpg?raw=true",
         "isHorizontal": false
       }
     },
@@ -4545,7 +4545,7 @@
         "subTypes": "Héros - Hyrule / Prodige",
         "cost": 0,
         "power": 12,
-        "image": "",
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/HYRULE/Zelda,%20Princess%20d'Hyrule.jpg?raw=true",
         "isHorizontal": false
       }
     },
@@ -4565,7 +4565,7 @@
         "subTypes": "Héros - Hyrule / Prodige",
         "cost": 0,
         "power": 14,
-        "image": "",
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/HYRULE/Roi%20Rhoam.jpg?raw=true",
         "isHorizontal": false
       }
     },
@@ -4585,7 +4585,7 @@
         "subTypes": "Héros - Hyrule",
         "cost": 0,
         "power": 11,
-        "image": "",
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/HYRULE/Zeld,%20Sage%20du%20Temps.jpg?raw=true",
         "isHorizontal": false
       }
     },
@@ -4605,7 +4605,7 @@
         "subTypes": "Héros - Hyrule",
         "cost": 0,
         "power": 14,
-        "image": "",
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/HYRULE/Link,%20Prodige%20Hylien.jpg?raw=true",
         "isHorizontal": false
       }
     },
@@ -4625,7 +4625,7 @@
         "subTypes": "Héros - Hyrule",
         "cost": 0,
         "power": 15,
-        "image": "",
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/HYRULE/Link,%20H%C3%A9ros%20C%C3%A9leste.jpg?raw=true",
         "isHorizontal": false
       }
     },
@@ -4645,7 +4645,7 @@
         "subTypes": "Héros - Hyrule",
         "cost": 0,
         "power": 16,
-        "image": "",
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/HYRULE/Link,%20H%C3%A9ros%20Purificateur.jpg?raw=true",
         "isHorizontal": false
       }
     },
@@ -4665,7 +4665,7 @@
         "subTypes": "Créature Divine - Hyrule",
         "cost": 8,
         "power": 0,
-        "image": "",
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/HYRULE/Zelda.jpg?raw=true",
         "isHorizontal": false
       }
     },
@@ -4705,7 +4705,7 @@
         "subTypes": "Sanctuaire - Hyrule",
         "cost": 0,
         "power": 0,
-        "image": "",
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/HYRULE/Sanctuaire%20d'Hyrule.jpg?raw=true",
         "isHorizontal": false
       }
     },
@@ -4725,7 +4725,7 @@
         "subTypes": "Temple - Hyrule",
         "cost": 0,
         "power": 0,
-        "image": "",
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/HYRULE/Temple%20d'Hyrule.jpg?raw=true",
         "isHorizontal": false
       }
     },
@@ -4734,5 +4734,24 @@
     "subTypes": "Temple - Hyrule",
     "cost": 0,
     "power": 0
+  },
+  "229": {
+    "id": "229",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Roi Rhoam",
+        "type": "Hero Deck",
+        "cost": 0,
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/HYRULE/Roi%20Rhoam%20(2).jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Roi Rhoam",
+    "type": "Hero Deck",
+    "cost": 0,
+    "subTypes": "",
+    "power": "14",
+    "image": ""
   }
 }
