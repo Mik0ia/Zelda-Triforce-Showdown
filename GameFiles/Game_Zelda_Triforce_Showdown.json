@@ -147,6 +147,16 @@
           "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/OTHERS/TOKEN_LuneDeSang.png?raw=true"
         },
         {
+          "id": "Foudre",
+          "name": "Foudre",
+          "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/OTHERS/TOKEN_Foudre.png?raw=true"
+        },
+        {
+          "id": "BenedictionDeQia",
+          "name": "Benediction de Qia",
+          "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/OTHERS/TOKEN_Qia.png?raw=true"
+        },
+        {
           "id": "Fureur",
           "name": "Fureur",
           "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/OTHERS/TOKEN_Fureur.png?raw=true"
