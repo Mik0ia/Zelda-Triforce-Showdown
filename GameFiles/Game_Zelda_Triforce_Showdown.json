@@ -154,6 +154,11 @@
         {
           "id": "BenedictionDeQia",
           "name": "Benediction de Qia",
+          "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/OTHERS/TOKEN_Raphica.png?raw=true"
+        },
+        {
+          "id": "ArcDeRaphica",
+          "name": "Arc de Raphica",
           "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/OTHERS/TOKEN_Qia.png?raw=true"
         },
         {
