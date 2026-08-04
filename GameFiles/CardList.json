@@ -4772,5 +4772,89 @@
     "subTypes": "",
     "power": "14",
     "image": ""
+  },
+  "231": {
+    "id": "231",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Qia, Ancienne Sage",
+        "type": "Hero Deck",
+        "subTypes": "Héros - Zora / Sage",
+        "cost": 0,
+        "power": 14,
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/ZORA/Qia,%20Ancienne%20Sage.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Qia, Ancienne Sage",
+    "type": "Hero Deck",
+    "subTypes": "Héros - Zora / Sage",
+    "cost": 0,
+    "power": 14,
+    "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/ZORA/Qia,%20Ancienne%20Sage.jpg?raw=true"
+  },
+    "232": {
+    "id": "232",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Raphica, Ancien Sage",
+        "type": "Hero Deck",
+        "subTypes": "Héros - Piaf / Sage",
+        "cost": 0,
+        "power": 14,
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/PIAF/Raphica,%20Ancien%20Sage.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Raphica, Ancien Sage",
+    "type": "Hero Deck",
+    "subTypes": "Héros - Piaf / Sage",
+    "cost": 0,
+    "power": 14,
+    "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/PIAF/Raphica,%20Ancien%20Sage.jpg?raw=true"
+  },
+      "233": {
+    "id": "233",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Agraston, Ancien Sage",
+        "type": "Hero Deck",
+        "subTypes": "Héros - Goron / Sage",
+        "cost": 0,
+        "power": 18,
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/GORON/Agraston,%20Ancien%20Sage.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Agraston, Ancien Sage",
+    "type": "Hero Deck",
+    "subTypes": "Héros - Goron / Sage",
+    "cost": 0,
+    "power": 18,
+    "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/GORON/Agraston,%20Ancien%20Sage.jpg?raw=true"
+  },
+        "234": {
+    "id": "234",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ardi, Ancienne Sage",
+        "type": "Hero Deck",
+        "subTypes": "Héros - Gerudo / Sage",
+        "cost": 0,
+        "power": 15,
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/GERUDOS/Ardi,%20Ancienne%20Sage.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ardi, Ancienne Sage",
+    "type": "Hero Deck",
+    "subTypes": "Héros - Gerudo / Sage",
+    "cost": 0,
+    "power": 15,
+    "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/GERUDOS/Ardi,%20Ancienne%20Sage.jpg?raw=true"
   }
 }
