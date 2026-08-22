@@ -26,12 +26,68 @@
       "Deck Sanctuaire",
       "Deck Divinite"
     ],
+    "secondaryFilters": [
+      "Guerrier - Piaf",
+      "Guerrier - Piaf / Prodige",
+      "Guerrier - Zora",
+      "Guerrier - Zora / Prodige",
+      "Guerrier - Goron",
+      "Guerrier - Gerudo",
+      "Guerrier - Ganon",
+      "Guerrier - Ganon / Hinox",
+      "Guerrier - Hylien / Chevalier",
+      "Guerrier - Hylien / Prodige",
+      "Lieu - Piaf",
+      "Lieu - Zora",
+      "Lieu - Gerudo",
+      "Temple - Piaf",
+      "Temple - Zora",
+      "Temple - Goron",
+      "Temple - Gerudo",
+      "Équipement - Piaf",
+      "Équipement - Zora",
+      "Équipement - Goron",
+      "Équipement - Gerudo",
+      "Soutien - Piaf",
+      "Soutien - Goron",
+      "Soutien - Gerudo",
+      "Soutien - Sheikah",
+      "Soutien - Hylien",
+      "Sanctuaire - Piaf",
+      "Sanctuaire - Zora",
+      "Sanctuaire - Goron",
+      "Sanctuaire - Gerudo",
+      "Héros - Piaf / Prodige",
+      "Héros - Piaf / Sage",
+      "Héros - Zora / Prodige",
+      "Héros - Zora / Sage",
+      "Héros - Goron / Prodige",
+      "Héros - Goron / Sage",
+      "Héros - Gerudo / Prodige",
+      "Héros - Gerudo / Sage",
+      "Créature Divine - Piaf",
+      "Créature Divine - Zora",
+      "Créature Divine - Goron",
+      "Créature Divine - Gerudo"
+    ],
     "formats": [
       {
         "title": "BaseGame",
         "gameplay": "BaseGame",
-        "legalityCode": "BASE",
-        "deckRuleset": "BaseGame",
+        "deckConstraints": {
+          "main": {
+            "min": 45,
+            "max": 45
+          },
+          "cardCopiesConstraints": {
+            "default": 3,
+            "exceptions": {
+              "Lueur Bienfaisante": 4,
+              "Emblème du Triomphe": 4,
+              "Garde Gerudo": -1
+            }
+          }
+        },
         "customCategories": [
           "Deck Sanctuaire",
           "Deck Divinite",
@@ -39,73 +95,50 @@
           "Triforce - Courage",
           "Triforce - Sagesse",
           "Triforce - Force"
-        ]
-      }
-    ],
-    "deckRulesets": {
-      "BaseGame": {
-        "checkCardLegality": true,
-        "general": {
-          "min": 45,
-          "max": 45,
-          "maxPerCard": 3
-        },
-        "categories": [
-          {
-            "category": "Deck Sanctuaire",
+        ],
+        "customCategoriesConstraints": {
+          "Deck Sanctuaire": {
             "min": 12,
             "max": 12
           },
-          {
-            "category": "Deck Divinite",
+          "Deck Divinite": {
             "min": 1,
             "max": 1
           },
-          {
-            "category": "Hero Deck",
+          "Hero Deck": {
             "min": 2,
             "max": 2
           },
-          {
-            "category": "Triforce - Courage",
+          "Triforce - Courage": {
             "min": 1,
             "max": 1
           },
-          {
-            "category": "Triforce - Sagesse",
+          "Triforce - Sagesse": {
             "min": 1,
             "max": 1
           },
-          {
-            "category": "Triforce - Force",
+          "Triforce - Force": {
             "min": 1,
             "max": 1
           }
-        ]
+        }
       }
-    }
+    ]
   },
   "gameplay": {
     "BaseGame": {
       "mulligan": {
-        "startingHandSize": 5,
-        "mulliganCycle": {
-          "info": "Choisissez les cartes à remplacer.",
-          "steps": [
-            "toBottom",
-            "draw"
-          ],
-          "selectionRange": {
-            "min": 0,
-            "max": 5
-          },
-          "keepCardsOrder": false
-        }
+        "info": "Classic",
+        "startingHandSize": "5",
+        "drawNewHand": false,
+        "putSelectionAtBottom": false,
+        "drawNewSelectedCards": true
       },
       "newTurn": {
         "drawOnStart": false,
-        "drawPerTurn": 1,
-        "sharedTurn": false
+        "sharedTurn": false,
+        "firstPlayerTokenName": "",
+        "drawPerTurn": 1
       },
       "draggableTokens": [
         {
@@ -160,28 +193,46 @@
         }
       ],
       "countersStartingValues": [
-        1
+        "1"
       ],
       "hideFacedDownCards": false,
       "sections": {
+        "customSections": [
+          "Terrain",
+          "Sanctuaires",
+          "Heros",
+          "Triforce - Courage",
+          "Triforce - Sagesse",
+          "Triforce - Force",
+          "Creature Divine",
+          "Deck_Sanctuaire",
+          "Compteurs"
+        ],
         "layout": {
           "direction": "column",
+          "isSymetricalForOpponents": false,
           "content": [
             {
               "direction": "row",
+              "style": false,
               "content": [
                 {
-                  "section": "Terrain"
+                  "section": "Terrain",
+                  "style": false
                 }
-              ]
+              ],
+              "isSymetricalForOpponents": false
             },
             {
               "direction": "row",
+              "style": false,
               "content": [
                 {
                   "direction": "row",
+                  "style": false,
                   "content": [
                     {
+<<<<<<< HEAD
                       "section": "Triforce_Courage"
                     },
                     {
@@ -189,35 +240,62 @@
                     },
                     {
                       "section": "Triforce_Force"
+=======
+                      "section": "Triforce - Courage",
+                      "style": false
                     },
                     {
-                      "section": "Deck_Sanctuaire"
+                      "section": "Triforce - Sagesse",
+                      "style": false
+                    },
+                    {
+                      "section": "Triforce - Force",
+                      "style": false
+>>>>>>> parent of ce90694 (New update fix)
+                    },
+                    {
+                      "section": "Deck_Sanctuaire",
+                      "style": false
                     }
-                  ]
+                  ],
+                  "isSymetricalForOpponents": false
                 },
                 {
-                  "section": "Sanctuaires"
+                  "section": "Sanctuaires",
+                  "style": false
                 },
                 {
                   "direction": "row",
+                  "style": false,
                   "content": [
                     {
+<<<<<<< HEAD
                       "section": "Creature_Divine"
+=======
+                      "section": "Creature Divine",
+                      "style": false
+>>>>>>> parent of ce90694 (New update fix)
                     },
                     {
-                      "section": "Heros"
+                      "section": "Heros",
+                      "style": false
                     }
-                  ]
+                  ],
+                  "isSymetricalForOpponents": false
                 }
-              ]
+              ],
+              "isSymetricalForOpponents": false
             },
             {
               "direction": "row",
+              "style": false,
               "content": [
                 {
-                  "section": "Compteurs"
+                  "section": "Compteurs",
+                  "style": false
                 }
-              ]
+              ],
+              "isSymetricalForOpponents": false
             }
           ]
         },
@@ -235,6 +313,7 @@
         },
         "sectionsDict": {
           "Terrain": {
+            "title": "Terrain",
             "isHidden": "no",
             "height": "MEDIUM",
             "alignment": "CENTER",
@@ -244,11 +323,13 @@
             "displayedTitle": "Terrain",
             "noQuickActions": false,
             "enterTapped": false,
+            "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
           "Heros": {
+            "title": "Heros",
             "isHidden": "no",
             "height": "MEDIUM",
             "alignment": "START",
@@ -258,11 +339,13 @@
             "displayedTitle": "Heros",
             "noQuickActions": false,
             "enterTapped": false,
+            "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
           "Sanctuaires": {
+            "title": "Sanctuaires",
             "isHidden": "no",
             "height": "MEDIUM",
             "alignment": "CENTER",
@@ -272,11 +355,13 @@
             "displayedTitle": "Sanctuaires",
             "noQuickActions": false,
             "enterTapped": false,
+            "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
           "Deck_Sanctuaire": {
+            "title": "Deck_Sanctuaire",
             "isHidden": "no",
             "height": "MEDIUM",
             "alignment": "DECK",
@@ -286,11 +371,17 @@
             "displayedTitle": "Deck Sanctuaire",
             "noQuickActions": false,
             "enterTapped": false,
+            "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": true
           },
+<<<<<<< HEAD
           "Creature_Divine": {
+=======
+          "Creature Divine": {
+            "title": "Creature Divine",
+>>>>>>> parent of ce90694 (New update fix)
             "isHidden": "no",
             "height": "MEDIUM",
             "alignment": "CENTER",
@@ -300,11 +391,17 @@
             "displayedTitle": "Creature Divine",
             "noQuickActions": false,
             "enterTapped": false,
+            "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
+<<<<<<< HEAD
           "Triforce_Force": {
+=======
+          "Triforce - Force": {
+            "title": "Triforce - Force",
+>>>>>>> parent of ce90694 (New update fix)
             "isHidden": "no",
             "height": "SMALL",
             "alignment": "CENTER",
@@ -314,11 +411,17 @@
             "displayedTitle": "",
             "noQuickActions": false,
             "enterTapped": false,
+            "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
+<<<<<<< HEAD
           "Triforce_Sagesse": {
+=======
+          "Triforce - Sagesse": {
+            "title": "Triforce - Sagesse",
+>>>>>>> parent of ce90694 (New update fix)
             "isHidden": "no",
             "height": "SMALL",
             "alignment": "CENTER",
@@ -328,11 +431,17 @@
             "displayedTitle": "",
             "noQuickActions": false,
             "enterTapped": false,
+            "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
+<<<<<<< HEAD
           "Triforce_Courage": {
+=======
+          "Triforce - Courage": {
+            "title": "Triforce - Courage",
+>>>>>>> parent of ce90694 (New update fix)
             "isHidden": "no",
             "height": "SMALL",
             "alignment": "CENTER",
@@ -342,6 +451,7 @@
             "displayedTitle": "",
             "noQuickActions": false,
             "enterTapped": false,
+            "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
