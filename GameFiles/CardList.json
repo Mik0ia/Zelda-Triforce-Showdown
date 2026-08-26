@@ -485,8 +485,8 @@
     "face": {
       "front": {
         "name": "Triforce du Courage",
-        "type": "Triforce - Courage",
-        "subTypes": "Triforce - Courage",
+        "type": "Triforce_Courage",
+        "subTypes": "Triforce_Courage",
         "cost": 0,
         "power": 0,
         "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/Others/Triforce%20du%20Courage.jpg",
@@ -494,8 +494,8 @@
       }
     },
     "name": "Triforce du Courage",
-    "type": "Triforce - Courage",
-    "subTypes": "Triforce - Courage",
+    "type": "Triforce_Courage",
+    "subTypes": "Triforce_Courage",
     "cost": 0,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/Others/Triforce%20du%20Courage.jpg",
@@ -509,8 +509,8 @@
     "face": {
       "front": {
         "name": "Triforce de la Sagesse",
-        "type": "Triforce - Sagesse",
-        "subTypes": "Triforce - Sagesse",
+        "type": "Triforce_Sagesse",
+        "subTypes": "Triforce_Sagesse",
         "cost": 0,
         "power": 0,
         "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/Others/Triforce%20de%20la%20Sagesse.jpg",
@@ -518,8 +518,8 @@
       }
     },
     "name": "Triforce de la Sagesse",
-    "type": "Triforce - Sagesse",
-    "subTypes": "Triforce - Sagesse",
+    "type": "Triforce_Sagesse",
+    "subTypes": "Triforce_Sagesse",
     "cost": 0,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/Others/Triforce%20de%20la%20Sagesse.jpg",
@@ -533,8 +533,8 @@
     "face": {
       "front": {
         "name": "Triforce de la Force",
-        "type": "Triforce - Force",
-        "subTypes": "Triforce - Force",
+        "type": "Triforce_Force",
+        "subTypes": "Triforce_orce",
         "cost": 0,
         "power": 0,
         "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/Others/Triforce%20de%20la%20Force.jpg",
@@ -542,8 +542,8 @@
       }
     },
     "name": "Triforce de la Force",
-    "type": "Triforce - Force",
-    "subTypes": "Triforce - Force",
+    "type": "Triforce_Force",
+    "subTypes": "Triforce_Force",
     "cost": 0,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/Others/Triforce%20de%20la%20Force.jpg",
