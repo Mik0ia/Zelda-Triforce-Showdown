@@ -19,7 +19,7 @@
     "cost": 5,
     "power": 4,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/PIAF/Revali%2C%20Fier%20guerrier.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -43,7 +43,7 @@
     "cost": 1,
     "power": 1,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/PIAF/Babil%2C%20jeune%20Piaf.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -67,7 +67,7 @@
     "cost": 4,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/PIAF/Babil%2C%20archer%20Piaf.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -91,7 +91,7 @@
     "cost": 3,
     "power": 3,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/PIAF/Teba%2C%20guerrier%20Piaf.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -115,7 +115,7 @@
     "cost": 6,
     "power": 4,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/PIAF/Teba%2C%20chef%20des%20Piaf.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -139,7 +139,7 @@
     "cost": 1,
     "power": 3,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/PIAF/Asarim%2C%20le%20M%C3%A9n%C3%A9strel.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -163,7 +163,7 @@
     "cost": 1,
     "power": 2,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/PIAF/Asarim%2C%20le%20M%C3%A9n%C3%A9strel.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -187,7 +187,7 @@
     "cost": 2,
     "power": 1,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/PIAF/Ka%C3%AF%2C%20Doyen%20Piaf.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -211,7 +211,7 @@
     "cost": 2,
     "power": 1,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/PIAF/D%C3%A9zelle%2C%20M%C3%A8re%20de%20Babil.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -235,7 +235,7 @@
     "cost": 2,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/PIAF/Village%20Piaf.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -259,7 +259,7 @@
     "cost": 0,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/PIAF/Temple%20du%20Vent.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -283,7 +283,7 @@
     "cost": 4,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/PIAF/Arc%20de%20l%27Aigle.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -307,7 +307,7 @@
     "cost": 2,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/PIAF/Arc%20du%20Faucon.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -331,7 +331,7 @@
     "cost": 3,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/PIAF/Rage%20de%20R%C3%A9vali.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -355,7 +355,7 @@
     "cost": 3,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/PIAF/Serment%20de%20Babil.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -379,7 +379,7 @@
     "cost": 5,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/PIAF/Serment%20%C3%89ternel%20de%20Babil.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -403,8 +403,8 @@
     "cost": 0,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/PIAF/Sanctuaire%20Piaf.jpg",
-    "legality": {
-      "BASE": true
+    "_legal": {
+      "BASE": 9999
     }
   },
   "18": {
@@ -427,7 +427,7 @@
     "cost": 0,
     "power": 15,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/PIAF/Revali%2C%20Prodige%20Piaf.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -451,7 +451,7 @@
     "cost": 0,
     "power": 13,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/PIAF/Babil%2C%20Sage%20du%20vent.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -475,7 +475,7 @@
     "cost": 0,
     "power": 10,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/PIAF/Vah%27medoh.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -499,7 +499,7 @@
     "cost": 0,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/Others/Triforce%20du%20Courage.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -523,7 +523,7 @@
     "cost": 0,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/Others/Triforce%20de%20la%20Sagesse.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -547,7 +547,7 @@
     "cost": 0,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/Others/Triforce%20de%20la%20Force.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -571,7 +571,7 @@
     "cost": 3,
     "power": 2,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/HYRULE/Link%2C%20Chevalier%20Hylien.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -595,7 +595,7 @@
     "cost": 5,
     "power": 4,
     "image": "",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -619,7 +619,7 @@
     "cost": 4,
     "power": 3,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/ZORA/Sidon%2C%20Prince%20Zora.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -643,7 +643,7 @@
     "cost": 2,
     "power": 1,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/ZORA/Meryth%20le%20pr%C3%A9cepteur.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -667,7 +667,7 @@
     "cost": 2,
     "power": 2,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/ZORA/Por%C3%A9a%2C%20Garde%20Zora.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -691,7 +691,7 @@
     "cost": 1,
     "power": 1,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/ZORA/Taol%2C%20Fan%20de%20Sidon.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -715,7 +715,7 @@
     "cost": 5,
     "power": 2,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/ZORA/Yona%2C%20fianc%C3%A9%20de%20sidon.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -739,7 +739,7 @@
     "cost": 7,
     "power": 3,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/ZORA/Mipha%2C%20princesse%20Zora.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -763,8 +763,8 @@
     "cost": 0,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/ZORA/Sanctuaire%20Zora.jpg",
-    "legality": {
-      "BASE": true
+    "_legal": {
+      "BASE": 9999
     }
   },
   "33": {
@@ -787,7 +787,7 @@
     "cost": 0,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/ZORA/Temple%20de%20l%27Eau.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -811,7 +811,7 @@
     "cost": 2,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/ZORA/Domaine%20Zora.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -835,7 +835,7 @@
     "cost": 1,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/SHEIKAH/Tablette%20sheikah.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -859,7 +859,7 @@
     "cost": 1,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/HYRULE/Perche%20d%27Hyrule.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -883,8 +883,8 @@
     "cost": 0,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/HYRULE/Embl%C3%AAme%20du%20triomphe.jpg",
-    "legality": {
-      "BASE": 4
+    "_legal": {
+      "BASE": 9999
     }
   },
   "38": {
@@ -907,7 +907,7 @@
     "cost": 3,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/ZORA/Pri%C3%A8re%20de%20Mipha.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -931,7 +931,7 @@
     "cost": 2,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/SHEIKAH/Tour%20Sheikah.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -955,7 +955,7 @@
     "cost": 3,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/ZORA/Armure%20Zora.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -979,7 +979,7 @@
     "cost": 4,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/ZORA/Lance%20d%27%C3%89cailles%20Radieuses.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -1003,7 +1003,7 @@
     "cost": 2,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/HYRULE/Module%20Cinetis.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -1027,7 +1027,7 @@
     "cost": 3,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/HYRULE/Module%20Cinetis%20%2B.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -1051,7 +1051,7 @@
     "cost": 2,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/HYRULE/Module%20Polaris.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -1075,7 +1075,7 @@
     "cost": 2,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/HYRULE/Module%20Bombe%20%C3%A0%20distance.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -1099,7 +1099,7 @@
     "cost": 2,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/HYRULE/Module%20Cryonis.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -1123,7 +1123,7 @@
     "cost": 6,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/HYRULE/R%C3%A9ceptacle%20d%27Endurance.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -1147,7 +1147,7 @@
     "cost": 6,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/HYRULE/R%C3%A9ceptacle%20de%20coeur.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -1171,7 +1171,7 @@
     "cost": 0,
     "power": 13,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/ZORA/Mipha%2C%20Prodige%20Zora.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -1195,7 +1195,7 @@
     "cost": 0,
     "power": 14,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/ZORA/Sidon%2C%20Sage%20de%20l%27Eau.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -1219,7 +1219,7 @@
     "cost": 0,
     "power": 10,
     "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/ZORA/Vah%E2%80%99Ruta.jpg?raw=true",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -1243,7 +1243,7 @@
     "cost": 0,
     "power": 18,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GORON/Daruk%2C%20Prodige%20Goron.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -1267,7 +1267,7 @@
     "cost": 0,
     "power": 15,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GORON/Yunobo%2C%20Sage%20du%20Feu.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -1291,7 +1291,7 @@
     "cost": 0,
     "power": 10,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GORON/Vah%27Rudania.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -1315,8 +1315,8 @@
     "cost": 0,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GORON/Sanctuaire%20Goron.jpg",
-    "legality": {
-      "BASE": true
+    "_legal": {
+      "BASE": 9999
     }
   },
   "56": {
@@ -1339,7 +1339,7 @@
     "cost": 0,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GORON/Temple%20du%20Feu.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -1363,7 +1363,7 @@
     "cost": 3,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GORON/Bouclier%20de%20Daruk.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -1387,7 +1387,7 @@
     "cost": 3,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GORON/Serment%20de%20Yunobo.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -1411,7 +1411,7 @@
     "cost": 5,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GORON/Serment%20%C3%89ternel%20de%20Yunobo.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -1435,7 +1435,7 @@
     "cost": 2,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GORON/Savouroche.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -1459,7 +1459,7 @@
     "cost": 1,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GORON/Gigot%20de%20Caillasse.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -1483,7 +1483,7 @@
     "cost": 1,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GORON/Flacon%20d%27%C3%A9pices%20Gorons.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -1507,7 +1507,7 @@
     "cost": 2,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GORON/Rem%C3%A8de%20ignifus.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -1531,7 +1531,7 @@
     "cost": 3,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GORON/Armure%20Goron.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -1555,7 +1555,7 @@
     "cost": 1,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GORON/Casse-pierre.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -1579,7 +1579,7 @@
     "cost": 4,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GORON/Brise-Montagne.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -1603,7 +1603,7 @@
     "cost": 5,
     "power": 3,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GORON/Le%20Grand%20Daruk.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -1627,7 +1627,7 @@
     "cost": 2,
     "power": 1,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GORON/Yunob%2C%20Jeune%20Goron.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -1651,7 +1651,7 @@
     "cost": 1,
     "power": 1,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GORON/Vator%2C%20Petit%20Goron.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -1675,7 +1675,7 @@
     "cost": 2,
     "power": 1,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GORON/Buldo%2C%20Boss%20Goron.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -1699,7 +1699,7 @@
     "cost": 2,
     "power": 1,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GORON/Uldon%2C%20Guide%20Goron.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -1723,7 +1723,7 @@
     "cost": 2,
     "power": 1,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GORON/Kamaxor%2C%20le%20Cuistot.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -1747,7 +1747,7 @@
     "cost": 2,
     "power": 1,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GORON/Brathan%2C%20Forgeron%20Goron.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -1771,7 +1771,7 @@
     "cost": 4,
     "power": 1,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GORON/Patorn%20Yunobo.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -1795,7 +1795,7 @@
     "cost": 0,
     "power": 14,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GERUDOS/Urbosa%2C%20Prodige%20Gerudo.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -1819,7 +1819,7 @@
     "cost": 0,
     "power": 13,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GERUDOS/Riju%2C%20Sage%20de%20la%20Foudre.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -1843,7 +1843,7 @@
     "cost": 0,
     "power": 10,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GERUDOS/Vah%27Naboris.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -1867,8 +1867,8 @@
     "cost": 0,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GERUDOS/Sanctuaire%20Gerudo.jpg",
-    "legality": {
-      "BASE": true
+    "_legal": {
+      "BASE": 9999
     }
   },
   "79": {
@@ -1891,7 +1891,7 @@
     "cost": 0,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GERUDOS/Temple%20de%20la%20foudre.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -1915,7 +1915,7 @@
     "cost": 3,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GERUDOS/Col%C3%A8re%20d%27Urbosa.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -1939,7 +1939,7 @@
     "cost": 3,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GERUDOS/Serment%20de%20Riju.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -1963,7 +1963,7 @@
     "cost": 5,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GERUDOS/Serment%20%C3%89ternel%20de%20Riju.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -1987,7 +1987,7 @@
     "cost": 1,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GERUDOS/Peluche%20de%20Morse%20des%20sables.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -2011,7 +2011,7 @@
     "cost": 2,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GERUDOS/Bouclier%20Gerudo.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -2035,7 +2035,7 @@
     "cost": 1,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GERUDOS/Cimeterre%20Gerudo.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -2059,7 +2059,7 @@
     "cost": 4,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GERUDOS/Cimeterre%20des%20sept%20joyaux.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -2083,7 +2083,7 @@
     "cost": 2,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GERUDOS/Temp%C3%AAte%20de%20sable.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -2107,7 +2107,7 @@
     "cost": 3,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GERUDOS/Cit%C3%A9%20Gerudo.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -2131,7 +2131,7 @@
     "cost": 1,
     "power": 1,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GERUDOS/Garde%20Gerudo.jpg",
-    "legality": {
+    "_legal": {
       "BASE": 9999
     }
   },
@@ -2155,7 +2155,7 @@
     "cost": 3,
     "power": 3,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GERUDOS/Capitaine%20Beterah.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -2179,7 +2179,7 @@
     "cost": 4,
     "power": 3,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GERUDOS/Chef%20Gerudo%2C%20Riju.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -2203,7 +2203,7 @@
     "cost": 4,
     "power": 1,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GERUDOS/Riju%20%26%20Madame%20Patricia.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -2227,7 +2227,7 @@
     "cost": 2,
     "power": 2,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GERUDOS/Morse%20des%20sables.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -2251,7 +2251,7 @@
     "cost": 8,
     "power": 6,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GERUDOS/Chef%20Gerudo%2C%20Urbosa.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -2275,7 +2275,7 @@
     "cost": 0,
     "power": 13,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GANON/Ganon%2C%20Le%20Fl%C3%A9au.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -2299,7 +2299,7 @@
     "cost": 0,
     "power": "6",
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GANON/Ganondorf%2C%20Roi%20D%C3%A9mon.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -2323,7 +2323,7 @@
     "cost": 8,
     "power": 4,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GANON/Ombre%20d%27eau%20de%20Ganon.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -2347,7 +2347,7 @@
     "cost": 8,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GANON/Ombre%20de%20foudre%20de%20Ganon.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -2371,7 +2371,7 @@
     "cost": 8,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GANON/Ombre%20de%20feu%20de%20Ganon.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -2395,7 +2395,7 @@
     "cost": 8,
     "power": 2,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GANON/Ombre%20de%20vent%20de%20Ganon.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -2419,8 +2419,8 @@
     "cost": 0,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GANON/Sanctuaire%20Corrompu.jpg",
-    "legality": {
-      "BASE": true
+    "_legal": {
+      "BASE": 9999
     }
   },
   "102": {
@@ -2443,7 +2443,7 @@
     "cost": 0,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GANON/Chateau%20Corrompu.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -2467,7 +2467,7 @@
     "cost": 1,
     "power": 1,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GANON/Stalbokoblin.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -2491,7 +2491,7 @@
     "cost": 0,
     "power": 1,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GANON/Bokoblin%20Maudit.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -2515,7 +2515,7 @@
     "cost": 1,
     "power": 1,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GANON/Bokoblin%20Rouge.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -2539,7 +2539,7 @@
     "cost": 2,
     "power": 2,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GANON/Bokoblin%20Bleu.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -2563,7 +2563,7 @@
     "cost": 3,
     "power": 3,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GANON/Bokoblin%20Noir.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -2587,7 +2587,7 @@
     "cost": 4,
     "power": 4,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GANON/Bokoblin%20Blanc.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -2611,7 +2611,7 @@
     "cost": 5,
     "power": 5,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GANON/Bokoblin%20Dor%C3%A9.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -2635,7 +2635,7 @@
     "cost": 1,
     "power": 1,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GANON/Moblin%20Rouge.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -2659,7 +2659,7 @@
     "cost": 2,
     "power": 2,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GANON/Moblin%20Bleu.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -2683,7 +2683,7 @@
     "cost": 3,
     "power": 3,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GANON/Moblin%20Noir.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -2707,7 +2707,7 @@
     "cost": 4,
     "power": 4,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GANON/Moblin%20Blanc.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -2731,7 +2731,7 @@
     "cost": 5,
     "power": 5,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GANON/Moblin%20Dor%C3%A9.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -2755,7 +2755,7 @@
     "cost": 8,
     "power": 8,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GANON/Ganon%2C%20le%20Fl%C3%A9eau%20%28incarnation%29.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -2779,7 +2779,7 @@
     "cost": 5,
     "power": "5",
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GANON/Emprise%20de%20Ganon.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -2803,7 +2803,7 @@
     "cost": 3,
     "power": 1,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GANON/R%C3%A9c%C3%A9ptacle%20du%20fl%C3%A9au.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -2827,7 +2827,7 @@
     "cost": 2,
     "power": 1,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GANON/Astor%2C%20Proph%C3%A8te%20du%20Chaos.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -2851,7 +2851,7 @@
     "cost": 2,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GANON/Ganondorf%20Momifi%C3%A9.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -2875,7 +2875,7 @@
     "cost": 5,
     "power": 3,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GANON/Ganondorf%2C%20Roi%20Gerudo.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -2899,7 +2899,7 @@
     "cost": "0",
     "power": "14",
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GANON/Ganondorf%2C%20Roi%20D%C3%A9mon%20%282%29.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -2923,7 +2923,7 @@
     "cost": 15,
     "power": 12,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GANON/Dragon%20Noir.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -2947,7 +2947,7 @@
     "cost": 5,
     "power": 4,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GANON/Gardien%20%C3%A0%20Pied.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -2971,7 +2971,7 @@
     "cost": 5,
     "power": 5,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GANON/Gardien%20Tourelle.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -2995,7 +2995,7 @@
     "cost": 5,
     "power": 3,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GANON/Gardien%20Volant.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -3019,7 +3019,7 @@
     "cost": 1,
     "power": 1,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GANON/Kakuda.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -3043,7 +3043,7 @@
     "cost": 1,
     "power": 1,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GANON/Chauve-Souris.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -3067,7 +3067,7 @@
     "cost": 1,
     "power": 1,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GANON/Minitracien.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -3091,7 +3091,7 @@
     "cost": 3,
     "power": 2,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GANON/Like%20Like.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -3115,7 +3115,7 @@
     "cost": 4,
     "power": 3,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GANON/Gigatracien.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -3139,7 +3139,7 @@
     "cost": 5,
     "power": 4,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GANON/Gigatrien%20Anthracite.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -3163,7 +3163,7 @@
     "cost": 7,
     "power": 5,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GANON/Gigatracien%20Opalin.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -3187,7 +3187,7 @@
     "cost": 3,
     "power": 1,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GANON/Gibdo.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -3211,7 +3211,7 @@
     "cost": 4,
     "power": 4,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GANON/Moldarquor.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -3235,7 +3235,7 @@
     "cost": 2,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GANON/Profondeurs.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -3259,7 +3259,7 @@
     "cost": 3,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GANON/Souls-sol%20du%20Chateau%20d%27Hyrule.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -3283,7 +3283,7 @@
     "cost": "4",
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GANON/Emprisonnement.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -3307,7 +3307,7 @@
     "cost": 3,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GANON/Corrosion.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -3331,7 +3331,7 @@
     "cost": 2,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GANON/Miasme.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -3355,7 +3355,7 @@
     "cost": 6,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GANON/Lune%20de%20Sang.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -3379,7 +3379,7 @@
     "cost": 1,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GANON/Annonce%20de%20la%20Lune%20de%20Sang.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -3403,7 +3403,7 @@
     "cost": 3,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GANON/Sabre%20Miasmatique.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -3427,7 +3427,7 @@
     "cost": 2,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GANON/Arc%20du%20roi%20d%C3%A9mon.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -3451,7 +3451,7 @@
     "cost": 1,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/SONEAU/Rencontre%20C%C3%A9leste.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -3475,7 +3475,7 @@
     "cost": 1,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/SONEAU/Amalgame.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -3499,7 +3499,7 @@
     "cost": 1,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/SONEAU/Retour%20Intemporelle.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -3523,7 +3523,7 @@
     "cost": 2,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/SONEAU/Rayon%20de%20Lumi%C3%A8re.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -3547,7 +3547,7 @@
     "cost": "3",
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/SONEAU/Emprisonnement%20du%20Mal.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -3571,7 +3571,7 @@
     "cost": 3,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/SONEAU/Serment%20de%20Mineru.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -3595,7 +3595,7 @@
     "cost": 5,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/SONEAU/Serment%20%C3%89ternel%20de%20Mineru.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -3619,7 +3619,7 @@
     "cost": 3,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/SONEAU/Usine%20%C3%A0%20Golem.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -3643,7 +3643,7 @@
     "cost": 1,
     "power": 2,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/SONEAU/Golem%20Soldat%20I.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -3667,7 +3667,7 @@
     "cost": 2,
     "power": 3,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/SONEAU/Golem%20Soldat%20II.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -3691,7 +3691,7 @@
     "cost": 3,
     "power": 4,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/SONEAU/Golem%20Soldat%20III.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -3715,7 +3715,7 @@
     "cost": 4,
     "power": 5,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/SONEAU/Golem%20Soldat%20IV.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -3739,7 +3739,7 @@
     "cost": 2,
     "power": 1,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/SONEAU/Golem%20Capitaine%20I.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -3763,7 +3763,7 @@
     "cost": 3,
     "power": 1,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/SONEAU/Golem%20Capitaine%20II.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -3787,7 +3787,7 @@
     "cost": 4,
     "power": 1,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/SONEAU/Golem%20Capitaine%20III.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -3811,7 +3811,7 @@
     "cost": 5,
     "power": 1,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/SONEAU/Golem%20Capitaine%20v.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -3835,7 +3835,7 @@
     "cost": 5,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/SONEAU/Mineru%20et%20son%20Golem.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -3859,7 +3859,7 @@
     "cost": 4,
     "power": 1,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/SONEAU/Zelda%2C%20Descendante%20Soneau.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -3883,7 +3883,7 @@
     "cost": 7,
     "power": 5,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/SONEAU/Rauru%2C%20Monarque%20Soneau.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -3907,7 +3907,7 @@
     "cost": 1,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/SONEAU/Golem%20Endormie.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -3931,7 +3931,7 @@
     "cost": 5,
     "power": 3,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/SONEAU/Myst%C3%A9rieux%20Golem.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -3955,7 +3955,7 @@
     "cost": 4,
     "power": 3,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/SONEAU/Golem%20Interdit.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -3979,7 +3979,7 @@
     "cost": 0,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/Others/Golem%20Assistant.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -4003,7 +4003,7 @@
     "cost": 0,
     "power": 3,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/Others/Golem%20de%20Combat.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -4027,7 +4027,7 @@
     "cost": 0,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/Others/Sonium.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -4051,8 +4051,8 @@
     "cost": 0,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/SONEAU/Sanctuaire%20Soneau.jpg",
-    "legality": {
-      "BASE": true
+    "_legal": {
+      "BASE": 9999
     }
   },
   "170": {
@@ -4075,7 +4075,7 @@
     "cost": 0,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/SONEAU/Temple%20del%27Esprit.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -4099,7 +4099,7 @@
     "cost": 2,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/SONEAU/%C3%89p%C3%A9e%20de%20Sonium.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -4123,7 +4123,7 @@
     "cost": 1,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/SONEAU/Bouclier%20de%20Sonium.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -4147,7 +4147,7 @@
     "cost": 3,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/SONEAU/Arc%20de%20Sonim.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -4171,7 +4171,7 @@
     "cost": 0,
     "power": 15,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/SONEAU/Rauru%2C%20Roi%20Soneau.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -4195,7 +4195,7 @@
     "cost": 0,
     "power": 13,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/SONEAU/Mineru%2C%20Scientifique%20Soneau.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -4219,7 +4219,7 @@
     "cost": 8,
     "power": 5,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/SONEAU/Golem%20de%20Mineru.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -4243,7 +4243,7 @@
     "cost": 8,
     "power": 8,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/SONEAU/Golem%20Corrompu.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -4267,7 +4267,7 @@
     "cost": 8,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/SONEAU/L%27arme%20Ultime%20des%20Yiga.jpg",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -4289,7 +4289,7 @@
     "subTypes": "Zora",
     "power": 0,
     "image": "",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -4311,7 +4311,7 @@
     "subTypes": "",
     "power": 0,
     "image": "",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -4334,7 +4334,7 @@
     "subTypes": "Guerrier - Ganon",
     "cost": 4,
     "power": 4,
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -4357,7 +4357,7 @@
     "subTypes": "Guerrier - Ganon",
     "cost": 7,
     "power": 7,
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -4380,7 +4380,7 @@
     "subTypes": "Guerrier - Ganon",
     "cost": 8,
     "power": 8,
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -4403,7 +4403,7 @@
     "subTypes": "Guerrier - Ganon",
     "cost": 8,
     "power": 6,
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -4426,7 +4426,7 @@
     "subTypes": "Guerrier - Ganon / Hinox",
     "cost": 3,
     "power": 2,
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -4449,7 +4449,7 @@
     "subTypes": "Guerrier - Ganon / Hinox",
     "cost": 4,
     "power": 3,
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -4472,7 +4472,7 @@
     "subTypes": "Guerrier - Ganon / Hinox",
     "cost": 5,
     "power": 4,
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -4495,7 +4495,7 @@
     "subTypes": "Guerrier - Ganon",
     "cost": 3,
     "power": 1,
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -4518,7 +4518,7 @@
     "subTypes": "Guerrier - Ganon",
     "cost": 4,
     "power": 2,
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -4541,7 +4541,7 @@
     "subTypes": "Guerrier - Ganon",
     "cost": 5,
     "power": 3,
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -4564,7 +4564,7 @@
     "subTypes": "Guerrier - Ganon",
     "cost": 6,
     "power": 4,
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -4587,7 +4587,7 @@
     "subTypes": "Équipement - Ganon",
     "cost": 4,
     "power": 0,
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -4610,7 +4610,7 @@
     "subTypes": "Soutien - Soneau",
     "cost": 0,
     "power": 0,
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -4633,7 +4633,7 @@
     "subTypes": "Soutien - Soneau",
     "cost": 0,
     "power": 0,
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -4656,7 +4656,7 @@
     "subTypes": "Soutien - Soneau",
     "cost": 0,
     "power": 0,
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -4679,7 +4679,7 @@
     "subTypes": "Soutien - Soneau",
     "cost": 0,
     "power": 0,
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -4702,8 +4702,8 @@
     "subTypes": "Soutien - Hyrule",
     "cost": 0,
     "power": 0,
-    "legality": {
-      "BASE": 4
+    "_legal": {
+      "BASE": 9999
     }
   },
   "198": {
@@ -4725,7 +4725,7 @@
     "subTypes": "Héros - Korogu",
     "cost": 0,
     "power": 13,
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -4748,7 +4748,7 @@
     "subTypes": "Héros - Korogu",
     "cost": 0,
     "power": 17,
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -4771,8 +4771,8 @@
     "subTypes": "Sanctuaire - Korogu",
     "cost": 0,
     "power": 0,
-    "legality": {
-      "BASE": true
+    "_legal": {
+      "BASE": 9999
     }
   },
   "201": {
@@ -4794,7 +4794,7 @@
     "subTypes": "Temple - Korogu",
     "cost": 0,
     "power": 0,
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -4817,7 +4817,7 @@
     "subTypes": "Lieu - Korogu",
     "cost": 2,
     "power": 0,
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -4840,7 +4840,7 @@
     "subTypes": "Guerrier - Korogu",
     "cost": 1,
     "power": 1,
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -4863,7 +4863,7 @@
     "subTypes": "Guerrier - Korogu",
     "cost": 1,
     "power": 1,
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -4886,7 +4886,7 @@
     "subTypes": "Guerrier - Korogu",
     "cost": 4,
     "power": 3,
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -4909,7 +4909,7 @@
     "subTypes": "Guerrier - Korogu",
     "cost": 1,
     "power": 1,
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -4932,7 +4932,7 @@
     "subTypes": "Guerrier - Korogu",
     "cost": 2,
     "power": 1,
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -4955,7 +4955,7 @@
     "subTypes": "Guerrier - Korogu",
     "cost": 2,
     "power": 0,
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -4978,7 +4978,7 @@
     "subTypes": "Guerrier - Korogu",
     "cost": 4,
     "power": 1,
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -5001,7 +5001,7 @@
     "subTypes": "Équipement - Korogu",
     "cost": 2,
     "power": 0,
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -5024,7 +5024,7 @@
     "subTypes": "Équipement - Korogu",
     "cost": 1,
     "power": 0,
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -5047,7 +5047,7 @@
     "subTypes": "Équipement - Korogu",
     "cost": 2,
     "power": 0,
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -5070,7 +5070,7 @@
     "subTypes": "Équipement - Korogu",
     "cost": 1,
     "power": 0,
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -5093,7 +5093,7 @@
     "subTypes": "Équipement - Korogu",
     "cost": 3,
     "power": 0,
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -5116,7 +5116,7 @@
     "subTypes": "Équipement - Korogu",
     "cost": 2,
     "power": 0,
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -5139,7 +5139,7 @@
     "subTypes": "Soutien - Korogu",
     "cost": 0,
     "power": 0,
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -5162,7 +5162,7 @@
     "subTypes": "Soutien - Korogu",
     "cost": 1,
     "power": 0,
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -5185,7 +5185,7 @@
     "subTypes": "Soutien - Korogu",
     "cost": 3,
     "power": 0,
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -5208,7 +5208,7 @@
     "subTypes": "Héros - Hyrule / Prodige",
     "cost": 0,
     "power": 12,
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -5231,7 +5231,7 @@
     "subTypes": "Héros - Hyrule / Prodige",
     "cost": 0,
     "power": 14,
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -5254,7 +5254,7 @@
     "subTypes": "Héros - Hyrule",
     "cost": 0,
     "power": 11,
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -5277,7 +5277,7 @@
     "subTypes": "Héros - Hyrule",
     "cost": 0,
     "power": 14,
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -5300,7 +5300,7 @@
     "subTypes": "Héros - Hyrule",
     "cost": 0,
     "power": 15,
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -5323,7 +5323,7 @@
     "subTypes": "Héros - Hyrule",
     "cost": 0,
     "power": 16,
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -5346,7 +5346,7 @@
     "subTypes": "Créature Divine - Hyrule",
     "cost": 8,
     "power": 0,
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -5369,7 +5369,7 @@
     "subTypes": "Créature Divine - Hyrule",
     "cost": 8,
     "power": 6,
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -5392,8 +5392,8 @@
     "subTypes": "Sanctuaire - Hyrule",
     "cost": 0,
     "power": 0,
-    "legality": {
-      "BASE": true
+    "_legal": {
+      "BASE": 9999
     }
   },
   "228": {
@@ -5415,7 +5415,7 @@
     "subTypes": "Temple - Hyrule",
     "cost": 0,
     "power": 0,
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -5437,7 +5437,7 @@
     "subTypes": "",
     "power": "14",
     "image": "",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -5459,7 +5459,7 @@
     "subTypes": "",
     "power": "14",
     "image": "",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -5483,7 +5483,7 @@
     "cost": 0,
     "power": 14,
     "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/ZORA/Qia,%20Ancienne%20Sage.jpg?raw=true",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -5507,7 +5507,7 @@
     "cost": 0,
     "power": 14,
     "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/PIAF/Raphica,%20Ancien%20Sage.jpg?raw=true",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -5531,7 +5531,7 @@
     "cost": 0,
     "power": 18,
     "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/GORON/Agraston,%20Ancien%20Sage.jpg?raw=true",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   },
@@ -5555,7 +5555,7 @@
     "cost": 0,
     "power": 15,
     "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/GERUDOS/Ardi,%20Ancienne%20Sage.jpg?raw=true",
-    "legality": {
+    "_legal": {
       "BASE": true
     }
   }
