@@ -19,9 +19,9 @@
   "deckBuilding": {
     "mainFilters": [
       "Main Deck",
-      "Triforce - Courage",
-      "Triforce - Sagesse",
-      "Triforce - Force",
+      "Triforce_Courage",
+      "Triforce_Sagesse",
+      "Triforce_Force",
       "Hero Deck",
       "Deck Sanctuaire",
       "Deck Divinite"
@@ -36,9 +36,9 @@
           "Deck Sanctuaire",
           "Deck Divinite",
           "Hero Deck",
-          "Triforce - Courage",
-          "Triforce - Sagesse",
-          "Triforce - Force"
+          "Triforce_Courage",
+          "Triforce_Sagesse",
+          "Triforce_Force"
         ]
       }
     ],
@@ -182,13 +182,13 @@
                   "direction": "row",
                   "content": [
                     {
-                      "section": "Triforce - Courage"
+                      "section": "Triforce_Courage"
                     },
                     {
-                      "section": "Triforce - Sagesse"
+                      "section": "Triforce_Sagesse"
                     },
                     {
-                      "section": "Triforce - Force"
+                      "section": "Triforce_Force"
                     },
                     {
                       "section": "Deck_Sanctuaire"
@@ -225,9 +225,9 @@
           "Deck Sanctuaire->Deck_Sanctuaire",
           "Hero Deck->Heros",
           "Deck Divinite->Creature Divine",
-          "Triforce - Courage->Triforce - Courage",
-          "Triforce - Sagesse->Triforce - Sagesse",
-          "Triforce - Force->Triforce - Force"
+          "Triforce_Courage->Triforce_Courage",
+          "Triforce_Sagesse->Triforce_Sagesse",
+          "Triforce_Force->Triforce_Force"
         ],
         "autoPlayFromHand": {},
         "autoPlayFromStack": {
@@ -304,7 +304,7 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Triforce - Force": {
+          "Triforce_Force": {
             "isHidden": "no",
             "height": "SMALL",
             "alignment": "CENTER",
@@ -318,7 +318,7 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Triforce - Sagesse": {
+          "Triforce_Sagesse": {
             "isHidden": "no",
             "height": "SMALL",
             "alignment": "CENTER",
@@ -332,7 +332,7 @@
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
-          "Triforce - Courage": {
+          "Triforce_Courage": {
             "isHidden": "no",
             "height": "SMALL",
             "alignment": "CENTER",
