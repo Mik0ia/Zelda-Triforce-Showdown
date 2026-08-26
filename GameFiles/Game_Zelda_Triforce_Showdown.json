@@ -46,8 +46,8 @@
       "BaseGame": {
         "checkCardLegality": true,
         "general": {
-          "min": 45,
-          "max": 45,
+          "min": 63,
+          "max": 63,
           "maxPerCard": 3
         },
         "categories": [
