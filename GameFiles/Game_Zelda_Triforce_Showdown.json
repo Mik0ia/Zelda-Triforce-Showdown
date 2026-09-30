@@ -22,90 +22,123 @@
       "Triforce_Courage",
       "Triforce_Sagesse",
       "Triforce_Force",
-      "Hero Deck",
-      "Deck Sanctuaire",
-      "Deck Divinite"
+      "Hero_Deck",
+      "Deck_Sanctuaire",
+      "Deck_Divinite"
+    ],
+    "secondaryFilters": [
+      "Guerrier - Piaf",
+      "Guerrier - Piaf / Prodige",
+      "Guerrier - Zora",
+      "Guerrier - Zora / Prodige",
+      "Guerrier - Goron",
+      "Guerrier - Gerudo",
+      "Guerrier - Ganon",
+      "Guerrier - Ganon / Hinox",
+      "Guerrier - Hylien / Chevalier",
+      "Guerrier - Hylien / Prodige",
+      "Lieu - Piaf",
+      "Lieu - Zora",
+      "Lieu - Gerudo",
+      "Temple - Piaf",
+      "Temple - Zora",
+      "Temple - Goron",
+      "Temple - Gerudo",
+      "Équipement - Piaf",
+      "Équipement - Zora",
+      "Équipement - Goron",
+      "Équipement - Gerudo",
+      "Soutien - Piaf",
+      "Soutien - Goron",
+      "Soutien - Gerudo",
+      "Soutien - Sheikah",
+      "Soutien - Hylien",
+      "Sanctuaire - Piaf",
+      "Sanctuaire - Zora",
+      "Sanctuaire - Goron",
+      "Sanctuaire - Gerudo",
+      "Héros - Piaf / Prodige",
+      "Héros - Piaf / Sage",
+      "Héros - Zora / Prodige",
+      "Héros - Zora / Sage",
+      "Héros - Goron / Prodige",
+      "Héros - Goron / Sage",
+      "Héros - Gerudo / Prodige",
+      "Héros - Gerudo / Sage",
+      "Créature Divine - Piaf",
+      "Créature Divine - Zora",
+      "Créature Divine - Goron",
+      "Créature Divine - Gerudo"
     ],
     "formats": [
       {
         "title": "BaseGame",
         "gameplay": "BaseGame",
-        "legalityCode": "BASE",
-        "deckRuleset": "BaseGame",
+        "deckConstraints": {
+          "main": {
+            "min": 45,
+            "max": 45
+          },
+          "cardCopiesConstraints": {
+            "default": 3,
+            "exceptions": {
+              "Lueur Bienfaisante": 4,
+              "Emblème du Triomphe": 4,
+              "Garde Gerudo": -1
+            }
+          }
+        },
         "customCategories": [
-          "Deck Sanctuaire",
-          "Deck Divinite",
-          "Hero Deck",
+          "Deck_Sanctuaire",
+          "Deck_Divinite",
+          "Hero_Deck",
           "Triforce_Courage",
           "Triforce_Sagesse",
           "Triforce_Force"
-        ]
-      }
-    ],
-    "deckRulesets": {
-      "BaseGame": {
-        "checkCardLegality": true,
-        "general": {
-          "min": 63,
-          "max": 63,
-          "maxPerCard": 3
-        },
-        "categories": [
-          {
-            "category": "Deck Sanctuaire",
+        ],
+        "customCategoriesConstraints": {
+          "Deck_Sanctuaire": {
             "min": 12,
             "max": 12
           },
-          {
-            "category": "Deck Divinite",
+          "Deck_Divinite": {
             "min": 1,
             "max": 1
           },
-          {
-            "category": "Hero Deck",
+          "Hero_Deck": {
             "min": 2,
             "max": 2
           },
-          {
-            "category": "Triforce_Courage",
+          "Triforce_Courage": {
             "min": 1,
             "max": 1
           },
-          {
-            "category": "Triforce_Sagesse",
+          "Triforce_Sagesse": {
             "min": 1,
             "max": 1
           },
-          {
-            "category": "Triforce_Force",
+          "Triforce_Force": {
             "min": 1,
             "max": 1
           }
-        ]
+        }
       }
-    }
+    ]
   },
   "gameplay": {
     "BaseGame": {
       "mulligan": {
-        "startingHandSize": 5,
-        "mulliganCycle": {
-          "info": "Choisissez les cartes à remplacer.",
-          "steps": [
-            "toBottom",
-            "draw"
-          ],
-          "selectionRange": {
-            "min": 0,
-            "max": 5
-          },
-          "keepCardsOrder": false
-        }
+        "info": "Classic",
+        "startingHandSize": "5",
+        "drawNewHand": false,
+        "putSelectionAtBottom": false,
+        "drawNewSelectedCards": true
       },
       "newTurn": {
         "drawOnStart": false,
-        "drawPerTurn": 1,
-        "sharedTurn": false
+        "sharedTurn": false,
+        "firstPlayerTokenName": "",
+        "drawPerTurn": 1
       },
       "draggableTokens": [
         {
@@ -160,71 +193,102 @@
         }
       ],
       "countersStartingValues": [
-        1
+        "1"
       ],
       "hideFacedDownCards": false,
       "sections": {
+        "customSections": [
+          "Terrain",
+          "Sanctuaires",
+          "Heros",
+          "Triforce_Courage",
+          "Triforce_Sagesse",
+          "Triforce_Force",
+          "Creature_Divine",
+          "Deck_Sanctuaire",
+          "Compteurs"
+        ],
         "layout": {
           "direction": "column",
+          "isSymetricalForOpponents": false,
           "content": [
             {
               "direction": "row",
+              "style": false,
               "content": [
                 {
-                  "section": "Terrain"
+                  "section": "Terrain",
+                  "style": false
                 }
-              ]
+              ],
+              "isSymetricalForOpponents": false
             },
             {
               "direction": "row",
+              "style": false,
               "content": [
                 {
                   "direction": "row",
+                  "style": false,
                   "content": [
                     {
-                      "section": "Triforce_Courage"
+                      "section": "Triforce_Courage",
+                      "style": false
                     },
                     {
-                      "section": "Triforce_Sagesse"
+                      "section": "Triforce_Sagesse",
+                      "style": false
                     },
                     {
-                      "section": "Triforce_Force"
+                      "section": "Triforce_Force",
+                      "style": false
                     },
                     {
-                      "section": "Deck_Sanctuaire"
+                      "section": "Deck_Sanctuaire",
+                      "style": false
                     }
-                  ]
+                  ],
+                  "isSymetricalForOpponents": false
                 },
                 {
-                  "section": "Sanctuaires"
+                  "section": "Sanctuaires",
+                  "style": false
                 },
                 {
                   "direction": "row",
+                  "style": false,
                   "content": [
                     {
-                      "section": "Creature Divine"
+                      "section": "Creature_Divine",
+                      "style": false
                     },
                     {
-                      "section": "Heros"
+                      "section": "Heros",
+                      "style": false
                     }
-                  ]
+                  ],
+                  "isSymetricalForOpponents": false
                 }
-              ]
+              ],
+              "isSymetricalForOpponents": false
             },
             {
               "direction": "row",
+              "style": false,
               "content": [
                 {
-                  "section": "Compteurs"
+                  "section": "Compteurs",
+                  "style": false
                 }
-              ]
+              ],
+              "isSymetricalForOpponents": false
             }
           ]
         },
         "categoriesAlreadyOnBoard": [
-          "Deck Sanctuaire->Deck_Sanctuaire",
-          "Hero Deck->Heros",
-          "Deck Divinite->Creature Divine",
+          "Deck_Sanctuaire->Deck_Sanctuaire",
+          "Hero_Deck->Heros",
+          "Deck_Divinite->Creature_Divine",
           "Triforce_Courage->Triforce_Courage",
           "Triforce_Sagesse->Triforce_Sagesse",
           "Triforce_Force->Triforce_Force"
@@ -235,6 +299,7 @@
         },
         "sectionsDict": {
           "Terrain": {
+            "title": "Terrain",
             "isHidden": "no",
             "height": "MEDIUM",
             "alignment": "CENTER",
@@ -244,11 +309,13 @@
             "displayedTitle": "Terrain",
             "noQuickActions": false,
             "enterTapped": false,
+            "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
           "Heros": {
+            "title": "Heros",
             "isHidden": "no",
             "height": "MEDIUM",
             "alignment": "START",
@@ -258,11 +325,13 @@
             "displayedTitle": "Heros",
             "noQuickActions": false,
             "enterTapped": false,
+            "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
           "Sanctuaires": {
+            "title": "Sanctuaires",
             "isHidden": "no",
             "height": "MEDIUM",
             "alignment": "CENTER",
@@ -272,39 +341,45 @@
             "displayedTitle": "Sanctuaires",
             "noQuickActions": false,
             "enterTapped": false,
+            "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
           "Deck_Sanctuaire": {
+            "title": "Deck_Sanctuaire",
             "isHidden": "no",
             "height": "MEDIUM",
             "alignment": "DECK",
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": false,
-            "displayedTitle": "Deck Sanctuaire",
+            "displayedTitle": "Deck_Sanctuaire",
             "noQuickActions": false,
             "enterTapped": false,
+            "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": true
           },
-          "Creature Divine": {
+          "Creature_Divine": {
+            "title": "Creature_Divine",
             "isHidden": "no",
             "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
-            "displayedTitle": "Creature Divine",
+            "displayedTitle": "Creature_Divine",
             "noQuickActions": false,
             "enterTapped": false,
+            "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
           "Triforce_Force": {
+            "title": "Triforce_Force",
             "isHidden": "no",
             "height": "SMALL",
             "alignment": "CENTER",
@@ -314,11 +389,13 @@
             "displayedTitle": "",
             "noQuickActions": false,
             "enterTapped": false,
+            "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
           "Triforce_Sagesse": {
+            "title": "Triforce_Sagesse",
             "isHidden": "no",
             "height": "SMALL",
             "alignment": "CENTER",
@@ -328,11 +405,13 @@
             "displayedTitle": "",
             "noQuickActions": false,
             "enterTapped": false,
+            "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
           },
           "Triforce_Courage": {
+            "title": "Triforce_Courage",
             "isHidden": "no",
             "height": "SMALL",
             "alignment": "CENTER",
@@ -342,6 +421,7 @@
             "displayedTitle": "",
             "noQuickActions": false,
             "enterTapped": false,
+            "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
