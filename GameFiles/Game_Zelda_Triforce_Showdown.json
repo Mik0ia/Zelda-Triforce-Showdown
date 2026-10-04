@@ -97,27 +97,27 @@
           "Triforce_Force"
         ],
         "customCategoriesConstraints": {
-          "Deck Sanctuaire": {
+          "Deck_Sanctuaire": {
             "min": 12,
             "max": 12
           },
-          "Deck Divinite": {
+          "Deck_Divinite": {
             "min": 1,
             "max": 1
           },
-          "Hero Deck": {
+          "Hero_Deck": {
             "min": 2,
             "max": 2
           },
-          "Triforce - Courage": {
+          "Triforce_Courage": {
             "min": 1,
             "max": 1
           },
-          "Triforce - Sagesse": {
+          "Triforce_Sagesse": {
             "min": 1,
             "max": 1
           },
-          "Triforce - Force": {
+          "Triforce_Force": {
             "min": 1,
             "max": 1
           }
@@ -201,10 +201,10 @@
           "Terrain",
           "Sanctuaires",
           "Heros",
-          "Triforce - Courage",
-          "Triforce - Sagesse",
-          "Triforce - Force",
-          "Creature Divine",
+          "Triforce_Courage",
+          "Triforce_Sagesse",
+          "Triforce_Force",
+          "Creature_Divine",
           "Deck_Sanctuaire",
           "Compteurs"
         ],
@@ -354,7 +354,7 @@
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": false,
-            "displayedTitle": "Deck Sanctuaire",
+            "displayedTitle": "Deck_Sanctuaire",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
@@ -363,14 +363,14 @@
             "showHiddenCardInHistory": true
           },
           "Creature_Divine": {
-            "title": "Creature Divine",
+            "title": "Creature_Divine",
             "isHidden": "no",
             "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
-            "displayedTitle": "Creature Divine",
+            "displayedTitle": "Creature_Divine",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
@@ -379,7 +379,7 @@
             "showHiddenCardInHistory": false
           },
           "Triforce_Force": {
-            "title": "Triforce - Force",
+            "title": "Triforce_Force",
             "isHidden": "no",
             "height": "SMALL",
             "alignment": "CENTER",
@@ -395,7 +395,7 @@
             "showHiddenCardInHistory": false
           },
           "Triforce_Sagesse": {
-            "title": "Triforce - Sagesse",
+            "title": "Triforce_Sagesse",
             "isHidden": "no",
             "height": "SMALL",
             "alignment": "CENTER",
@@ -411,7 +411,7 @@
             "showHiddenCardInHistory": false
           },
           "Triforce_Courage": {
-            "title": "Triforce - Courage",
+            "title": "Triforce_Courage",
             "isHidden": "no",
             "height": "SMALL",
             "alignment": "CENTER",
