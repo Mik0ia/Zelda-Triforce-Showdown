@@ -202,7 +202,7 @@
                   "direction": "row",
                   "content": [
                     {
-                      "section": "Creature Divine"
+                      "section": "Creature_Divine"
                     },
                     {
                       "section": "Heros"
@@ -224,7 +224,7 @@
         "categoriesAlreadyOnBoard": [
           "Deck Sanctuaire->Deck_Sanctuaire",
           "Hero Deck->Heros",
-          "Deck Divinite->Creature Divine",
+          "Deck Divinite->Creature_Divine",
           "Triforce_Courage->Triforce_Courage",
           "Triforce_Sagesse->Triforce_Sagesse",
           "Triforce_Force->Triforce_Force"
@@ -289,20 +289,6 @@
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": true
-          },
-          "Creature Divine": {
-            "isHidden": "no",
-            "height": "MEDIUM",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Creature Divine",
-            "noQuickActions": false,
-            "enterTapped": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
           },
           "Triforce_Force": {
             "isHidden": "no",
@@ -379,6 +365,20 @@
               ]
             },
             "events": {}
+          },
+          "Creature_Divine": {
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Creature Divine",
+            "noQuickActions": false,
+            "enterTapped": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
           }
         }
       }
