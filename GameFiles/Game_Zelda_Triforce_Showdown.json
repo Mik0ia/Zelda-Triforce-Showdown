@@ -352,13 +352,13 @@
                     "className": "box-container align-items-center gap-1"
                   },
                   "children": [
-                    "🌿 Noix Korogu :",
+                    "Korogu :",
                     {
                       "type": "input-number",
                       "props": {
                         "value": "{{game.data.Compteurs.korogu}}"
                       },
-                      "onChange": "game.data.Compteurs.korogu = value; chatLog('Noix Korogu : ' + value + ' (' + (delta > 0 ? '+' + delta : delta) + ')')"
+                      "onChange": "game.data.Compteurs.korogu = value; chatLog('Korogu : ' + value + ' (' + (delta > 0 ? '+' + delta : delta) + ')')"
                     }
                   ]
                 }
