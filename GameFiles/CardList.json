@@ -4175,6 +4175,30 @@
       "BASE": true
     }
   },
+    "174": {
+    "id": "174",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rauru, Roi Soneau",
+        "type": "Hero Deck",
+        "subTypes": "Héros - Soneau",
+        "cost": 0,
+        "power": 15,
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/STAMP/Rauru,%20Roi%20Soneau%20-%20Mik0%C3%AFa.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rauru, Roi Soneau",
+    "type": "Hero Deck",
+    "subTypes": "Héros - Soneau",
+    "cost": 0,
+    "power": 15,
+    "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/STAMP/Rauru,%20Roi%20Soneau%20-%20Mik0%C3%AFa.jpg?raw=true",
+    "_legal": {
+      "BASE": true
+    }
+  },
   "175": {
     "id": "175",
     "isToken": false,
@@ -4844,7 +4868,29 @@
       "BASE": true
     }
   },
-  "204": {
+  "255": {
+    "id": "255",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jeune Korogu",
+        "type": "Main Deck",
+        "subTypes": "Guerrier - Korogu",
+        "cost": 1,
+        "power": 1,
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/STAMP/Petit%20Korogu%20-%20Oshiro.jpg?raw=true"
+      }
+    },
+    "name": "Jeune Korogu",
+    "type": "Main Deck",
+    "subTypes": "Guerrier - Korogu",
+    "cost": 1,
+    "power": 1,
+    "_legal": {
+      "BASE": true
+    }
+  },
+    "204": {
     "id": "204",
     "isToken": false,
     "face": {
@@ -4854,8 +4900,7 @@
         "subTypes": "Guerrier - Korogu",
         "cost": 1,
         "power": 1,
-        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/KOROGU/Jeune%20Korogu.jpg?raw=true",
-        "isHorizontal": false
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/KOROGU/Jeune%20Korogu.jpg?raw=true"
       }
     },
     "name": "Jeune Korogu",
