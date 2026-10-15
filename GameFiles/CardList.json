@@ -6019,7 +6019,7 @@
       "front": {
         "name": "Poste Yiga",
         "type": "Main Deck",
-        "subTypes": "Lieu - Hyrule",
+        "subTypes": "Lieu - Yiga",
         "cost": 3,
         "power": 0,
         "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/YIGA/Poste Yiga.jpg",
@@ -6028,7 +6028,7 @@
     },
     "name": "Poste Yiga",
     "type": "Main Deck",
-    "subTypes": "Lieu - Hyrule",
+    "subTypes": "Lieu - Yiga",
     "cost": 3,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/YIGA/Poste Yiga.jpg",
