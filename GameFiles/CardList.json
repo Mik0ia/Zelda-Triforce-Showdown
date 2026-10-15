@@ -5697,7 +5697,7 @@
     "power": 3,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/YIGA/Sous-fifre Yiga.jpg",
     "_legal": {
-      "BASE": true
+      "BASE": 9999
     }
   },
   "239": {
