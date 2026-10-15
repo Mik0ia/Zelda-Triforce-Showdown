@@ -5558,5 +5558,485 @@
     "_legal": {
       "BASE": true
     }
+  },
+  "235": {
+    "id": "235",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Le Grand Kohga",
+        "type": "Hero Deck",
+        "subTypes": "Héros - Yiga",
+        "cost": 0,
+        "power": 12,
+        "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/YIGA/Le Grand Kohga.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Le Grand Kohga",
+    "type": "Hero Deck",
+    "subTypes": "Héros - Yiga",
+    "cost": 0,
+    "power": 12,
+    "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/YIGA/Le Grand Kohga.jpg",
+    "_legal": {
+      "BASE": true
+    }
+  },
+  "236": {
+    "id": "236",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Suppa, Chef de Guerre",
+        "type": "Hero Deck",
+        "subTypes": "Héros - Yiga",
+        "cost": 0,
+        "power": 16,
+        "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/YIGA/Suppa%2C Chef de Guerre.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Suppa, Chef de Guerre",
+    "type": "Hero Deck",
+    "subTypes": "Héros - Yiga",
+    "cost": 0,
+    "power": 16,
+    "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/YIGA/Suppa%2C Chef de Guerre.jpg",
+    "_legal": {
+      "BASE": true
+    }
+  },
+  "237": {
+    "id": "237",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Link, Infiltré Yiga",
+        "type": "Hero Deck",
+        "subTypes": "Héros - Hyrule / Prodige / Yiga",
+        "cost": 0,
+        "power": 14,
+        "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/YIGA/Link%2C Infiltr%C3%A9 Yiga.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Link, Infiltré Yiga",
+    "type": "Hero Deck",
+    "subTypes": "Héros - Hyrule / Prodige / Yiga",
+    "cost": 0,
+    "power": 14,
+    "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/YIGA/Link%2C Infiltr%C3%A9 Yiga.jpg",
+    "_legal": {
+      "BASE": true
+    }
+  },
+  "238": {
+    "id": "238",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sous-fifre Yiga",
+        "type": "Main Deck",
+        "subTypes": "Guerrier - Yiga",
+        "cost": 2,
+        "power": 3,
+        "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/YIGA/Sous-fifre Yiga.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sous-fifre Yiga",
+    "type": "Main Deck",
+    "subTypes": "Guerrier - Yiga",
+    "cost": 2,
+    "power": 3,
+    "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/YIGA/Sous-fifre Yiga.jpg",
+    "_legal": {
+      "BASE": true
+    }
+  },
+  "239": {
+    "id": "239",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kohga, Maître de la Supercherie",
+        "type": "Main Deck",
+        "subTypes": "Guerrier - Yiga",
+        "cost": 5,
+        "power": 3,
+        "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/YIGA/Kohga%2C Ma%C3%AEtre de la Supercherie.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kohga, Maître de la Supercherie",
+    "type": "Main Deck",
+    "subTypes": "Guerrier - Yiga",
+    "cost": 5,
+    "power": 3,
+    "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/YIGA/Kohga%2C Ma%C3%AEtre de la Supercherie.jpg",
+    "_legal": {
+      "BASE": true
+    }
+  },
+  "240": {
+    "id": "240",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Suppa, Officier Yiga",
+        "type": "Main Deck",
+        "subTypes": "Guerrier - Yiga",
+        "cost": 6,
+        "power": 4,
+        "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/YIGA/Suppa%2C Officier Yiga.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Suppa, Officier Yiga",
+    "type": "Main Deck",
+    "subTypes": "Guerrier - Yiga",
+    "cost": 6,
+    "power": 4,
+    "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/YIGA/Suppa%2C Officier Yiga.jpg",
+    "_legal": {
+      "BASE": true
+    }
+  },
+  "241": {
+    "id": "241",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Officier Yiga",
+        "type": "Main Deck",
+        "subTypes": "Guerrier - Yiga",
+        "cost": 4,
+        "power": 4,
+        "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/YIGA/Officier Yiga.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Officier Yiga",
+    "type": "Main Deck",
+    "subTypes": "Guerrier - Yiga",
+    "cost": 4,
+    "power": 4,
+    "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/YIGA/Officier Yiga.jpg",
+    "_legal": {
+      "BASE": true
+    }
+  },
+  "242": {
+    "id": "242",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bananes Lame",
+        "type": "Main Deck",
+        "subTypes": "Soutien - Yiga / Nourriture",
+        "cost": 2,
+        "power": 0,
+        "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/YIGA/Bananes Lame.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bananes Lame",
+    "type": "Main Deck",
+    "subTypes": "Soutien - Yiga / Nourriture",
+    "cost": 2,
+    "power": 0,
+    "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/YIGA/Bananes Lame.jpg",
+    "_legal": {
+      "BASE": true
+    }
+  },
+  "243": {
+    "id": "243",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Embuscade Yiga",
+        "type": "Main Deck",
+        "subTypes": "Soutien - Yiga",
+        "cost": 2,
+        "power": 0,
+        "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/YIGA/Embuscade Yiga.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Embuscade Yiga",
+    "type": "Main Deck",
+    "subTypes": "Soutien - Yiga",
+    "cost": 2,
+    "power": 0,
+    "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/YIGA/Embuscade Yiga.jpg",
+    "_legal": {
+      "BASE": true
+    }
+  },
+  "244": {
+    "id": "244",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Masque Yiga",
+        "type": "Main Deck",
+        "subTypes": "Équipement - Yiga",
+        "cost": 1,
+        "power": 0,
+        "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/YIGA/Masque Yiga.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Masque Yiga",
+    "type": "Main Deck",
+    "subTypes": "Équipement - Yiga",
+    "cost": 1,
+    "power": 0,
+    "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/YIGA/Masque Yiga.jpg",
+    "_legal": {
+      "BASE": true
+    }
+  },
+  "245": {
+    "id": "245",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Technique de Kohga",
+        "type": "Main Deck",
+        "subTypes": "Soutien - Yiga",
+        "cost": 1,
+        "power": 0,
+        "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/YIGA/Technique de Kohga.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Technique de Kohga",
+    "type": "Main Deck",
+    "subTypes": "Soutien - Yiga",
+    "cost": 1,
+    "power": 0,
+    "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/YIGA/Technique de Kohga.jpg",
+    "_legal": {
+      "BASE": true
+    }
+  },
+  "246": {
+    "id": "246",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Portail Yiga",
+        "type": "Main Deck",
+        "subTypes": "Soutien - Yiga",
+        "cost": 0,
+        "power": 0,
+        "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/YIGA/Portail Yiga.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Portail Yiga",
+    "type": "Main Deck",
+    "subTypes": "Soutien - Yiga",
+    "cost": 0,
+    "power": 0,
+    "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/YIGA/Portail Yiga.jpg",
+    "_legal": {
+      "BASE": true
+    }
+  },
+  "247": {
+    "id": "247",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Apparition Yiga",
+        "type": "Main Deck",
+        "subTypes": "Soutien - Yiga",
+        "cost": 1,
+        "power": 0,
+        "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/YIGA/Apparition Yiga.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Apparition Yiga",
+    "type": "Main Deck",
+    "subTypes": "Soutien - Yiga",
+    "cost": 1,
+    "power": 0,
+    "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/YIGA/Apparition Yiga.jpg",
+    "_legal": {
+      "BASE": true
+    }
+  },
+  "248": {
+    "id": "248",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Boule de piques Yiga",
+        "type": "Main Deck",
+        "subTypes": "Soutien - Yiga",
+        "cost": 3,
+        "power": 0,
+        "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/YIGA/Boule de piques Yiga.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Boule de piques Yiga",
+    "type": "Main Deck",
+    "subTypes": "Soutien - Yiga",
+    "cost": 3,
+    "power": 0,
+    "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/YIGA/Boule de piques Yiga.jpg",
+    "_legal": {
+      "BASE": true
+    }
+  },
+  "249": {
+    "id": "249",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Règlement de Comptes",
+        "type": "Main Deck",
+        "subTypes": "Soutien - Yiga",
+        "cost": 4,
+        "power": 0,
+        "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/YIGA/R%C3%A8glement de Comptes.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Règlement de Comptes",
+    "type": "Main Deck",
+    "subTypes": "Soutien - Yiga",
+    "cost": 4,
+    "power": 0,
+    "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/YIGA/R%C3%A8glement de Comptes.jpg",
+    "_legal": {
+      "BASE": true
+    }
+  },
+  "250": {
+    "id": "250",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Simple Voyageur",
+        "type": "Main Deck",
+        "subTypes": "Guerrier - Hyrule",
+        "cost": 1,
+        "power": 0,
+        "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/YIGA/Simple Voyageur.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Simple Voyageur",
+    "type": "Main Deck",
+    "subTypes": "Guerrier - Hyrule",
+    "cost": 1,
+    "power": 0,
+    "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/YIGA/Simple Voyageur.jpg",
+    "_legal": {
+      "BASE": true
+    }
+  },
+  "251": {
+    "id": "251",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Plaine d'Hyrule",
+        "type": "Main Deck",
+        "subTypes": "Lieu - Hyrule",
+        "cost": 1,
+        "power": 0,
+        "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/YIGA/Plaine d%27Hyrule.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Plaine d'Hyrule",
+    "type": "Main Deck",
+    "subTypes": "Lieu - Hyrule",
+    "cost": 1,
+    "power": 0,
+    "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/YIGA/Plaine d%27Hyrule.jpg",
+    "_legal": {
+      "BASE": true
+    }
+  },
+  "252": {
+    "id": "252",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Poste Yiga",
+        "type": "Main Deck",
+        "subTypes": "Lieu - Hyrule",
+        "cost": 3,
+        "power": 0,
+        "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/YIGA/Poste Yiga.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Poste Yiga",
+    "type": "Main Deck",
+    "subTypes": "Lieu - Hyrule",
+    "cost": 3,
+    "power": 0,
+    "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/YIGA/Poste Yiga.jpg",
+    "_legal": {
+      "BASE": true
+    }
+  },
+  "253": {
+    "id": "253",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Chambre de Kohga",
+        "type": "Deck Sanctuaire",
+        "subTypes": "Temple - Yiga",
+        "cost": 0,
+        "power": 0,
+        "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/YIGA/Chambre de Kohga.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chambre de Kohga",
+    "type": "Deck Sanctuaire",
+    "subTypes": "Temple - Yiga",
+    "cost": 0,
+    "power": 0,
+    "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/YIGA/Chambre de Kohga.jpg",
+    "_legal": {
+      "BASE": 9999
+    }
+  },
+  "254": {
+    "id": "254",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sanctuaire Yiga",
+        "type": "Deck Sanctuaire",
+        "subTypes": "Sanctuaire - Yiga",
+        "cost": 0,
+        "power": 0,
+        "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/YIGA/Sanctuaire Yiga.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sanctuaire Yiga",
+    "type": "Deck Sanctuaire",
+    "subTypes": "Sanctuaire - Yiga",
+    "cost": 0,
+    "power": 0,
+    "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/YIGA/Sanctuaire Yiga.jpg",
+    "_legal": {
+      "BASE": 9999
+    }
   }
 }
