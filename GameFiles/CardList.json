@@ -550,6 +550,30 @@
       "BASE": true
     }
   },
+  
+  "258": {
+    "id": "258",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Link, Chevalier Hylien",
+        "type": "Main Deck",
+        "subTypes": "Guerrier - Hyrule / Chevalier",
+        "cost": 3,
+        "power": 2,
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/HYRULE/Link,%20Chevalier%20Hylien%20-%20GOLD.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Link, Chevalier Hylien",
+    "type": "Main Deck",
+    "subTypes": "Guerrier - Hyrule / Chevalier",
+    "cost": 3,
+    "power": 2,
+    "_legal": {
+      "BASE": true
+    }
+  },
   "25": {
     "id": "25",
     "isToken": false,
@@ -844,7 +868,7 @@
       "front": {
         "name": "Perche d'Hyrule",
         "type": "Main Deck",
-        "subTypes": "Soutien - Nourriture",
+        "subTypes": "Soutien - Hyrule / Nourriture",
         "cost": 1,
         "power": 0,
         "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/HYRULE/Perche%20d%E2%80%99Hyrule.jpg?raw=true",
@@ -853,7 +877,7 @@
     },
     "name": "Perche d'Hyrule",
     "type": "Main Deck",
-    "subTypes": "Soutien - Nourriture",
+    "subTypes": "Soutien - Hyrule / Nourriture",
     "cost": 1,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/HYRULE/Perche%20d%27Hyrule.jpg",
@@ -892,7 +916,7 @@
       "front": {
         "name": "Prière de Mipha",
         "type": "Main Deck",
-        "subTypes": "Soutien - Hylien",
+        "subTypes": "Soutien - Zora",
         "cost": 3,
         "power": 0,
         "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/ZORA/Pri%C3%A8re%20de%20Mipha.jpg",
@@ -901,7 +925,7 @@
     },
     "name": "Prière de Mipha",
     "type": "Main Deck",
-    "subTypes": "Soutien - Hylien",
+    "subTypes": "Soutien - Zora",
     "cost": 3,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/ZORA/Pri%C3%A8re%20de%20Mipha.jpg",
@@ -1108,7 +1132,7 @@
       "front": {
         "name": "Réceptacle d'Endurance",
         "type": "Main Deck",
-        "subTypes": "Soutien - Hylien / Réceptacle",
+        "subTypes": "Soutien - Hyrule / Réceptacle",
         "cost": 6,
         "power": 0,
         "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/HYRULE/R%C3%A9ceptacle%20d%E2%80%99Endurance.jpg?raw=true",
@@ -1117,7 +1141,7 @@
     },
     "name": "Réceptacle d'Endurance",
     "type": "Main Deck",
-    "subTypes": "Soutien - Hylien / Réceptacle",
+    "subTypes": "Soutien - Hyrule / Réceptacle",
     "cost": 6,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/HYRULE/R%C3%A9ceptacle%20d%27Endurance.jpg",
