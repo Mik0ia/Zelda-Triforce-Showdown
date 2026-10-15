@@ -5665,7 +5665,7 @@
         "subTypes": "Guerrier - Yiga",
         "cost": 5,
         "power": 3,
-        "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/YIGA/Kohga%2C Ma%C3%AEtre de la Supercherie.jpg",
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/YIGA/Kohga,%20Maitre%20de%20la%20supercherie.jpg?raw=true",
         "isHorizontal": false
       }
     },
@@ -5674,7 +5674,7 @@
     "subTypes": "Guerrier - Yiga",
     "cost": 5,
     "power": 3,
-    "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/YIGA/Kohga%2C Ma%C3%AEtre de la Supercherie.jpg",
+    "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/YIGA/Kohga,%20Maitre%20de%20la%20supercherie.jpg?raw=true",
     "_legal": {
       "BASE": true
     }
