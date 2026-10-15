@@ -646,6 +646,29 @@
       "BASE": true
     }
   },
+    "257": {
+    "id": "257",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Poréa, Garde Zora",
+        "type": "Main Deck",
+        "subTypes": "Guerrier - Zora",
+        "cost": 2,
+        "power": 2,
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/STAMP/Por%C3%A9a,%20Garde%20Zora%20-%20Dowo.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Poréa, Garde Zora",
+    "type": "Main Deck",
+    "subTypes": "Guerrier - Zora",
+    "cost": 2,
+    "power": 2,
+    "_legal": {
+      "BASE": true
+    }
+  },
   "29": {
     "id": "29",
     "isToken": false,
