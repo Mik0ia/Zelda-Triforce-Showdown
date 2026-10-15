@@ -6042,7 +6042,7 @@
     "face": {
       "front": {
         "name": "Chambre de Kohga",
-        "type": "Deck Sanctuaire",
+        "type": "Main Deck",
         "subTypes": "Temple - Yiga",
         "cost": 0,
         "power": 0,
@@ -6051,7 +6051,7 @@
       }
     },
     "name": "Chambre de Kohga",
-    "type": "Deck Sanctuaire",
+    "type": "Main Deck",
     "subTypes": "Temple - Yiga",
     "cost": 0,
     "power": 0,
