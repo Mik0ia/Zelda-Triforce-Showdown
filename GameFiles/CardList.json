@@ -119,50 +119,25 @@
       "BASE": true
     }
   },
-  "6": {
-    "id": "6",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Asarim, le Ménéstrel (Révéler)",
-        "type": "Main Deck",
-        "subTypes": "Guerrier - Piaf",
-        "cost": 1,
-        "power": 3,
-        "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/PIAF/Asarim%2C%20le%20M%C3%A9n%C3%A9strel.jpg",
-        "isHorizontal": false
-      }
-    },
-    "name": "Asarim, le Ménéstrel (Révéler)",
-    "type": "Main Deck",
-    "subTypes": "Guerrier - Piaf",
-    "cost": 1,
-    "power": 3,
-    "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/PIAF/Asarim%2C%20le%20M%C3%A9n%C3%A9strel.jpg",
-    "_legal": {
-      "BASE": true
-    }
-  },
   "7": {
     "id": "7",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Asarim, le Ménéstrel (Redresser)",
+        "name": "Asarim, le Ménéstrel",
         "type": "Main Deck",
         "subTypes": "Guerrier - Piaf",
-        "cost": 1,
-        "power": 2,
+        "cost": 2,
+        "power": 1,
         "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/PIAF/Asarim%2C%20le%20M%C3%A9n%C3%A9strel.jpg",
         "isHorizontal": false
       }
     },
-    "name": "Asarim, le Ménéstrel (Redresser)",
+    "name": "Asarim, le Ménéstrel",
     "type": "Main Deck",
     "subTypes": "Guerrier - Piaf",
-    "cost": 1,
-    "power": 2,
-    "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/PIAF/Asarim%2C%20le%20M%C3%A9n%C3%A9strel.jpg",
+    "cost": 2,
+    "power": 1,
     "_legal": {
       "BASE": true
     }
