@@ -583,7 +583,7 @@
         "type": "Main Deck",
         "subTypes": "Guerrier - Hylien / Prodige",
         "cost": 5,
-        "power": 4,
+        "power": 3,
         "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/HYRULE/Link,%20Prodige%20Hylien.jpg?raw=true",
         "isHorizontal": false
       }
@@ -592,7 +592,31 @@
     "type": "Main Deck",
     "subTypes": "Guerrier - Hylien / Prodige",
     "cost": 5,
-    "power": 4,
+    "power": 3,
+    "image": "",
+    "_legal": {
+      "BASE": true
+    }
+  },
+  "264": {
+    "id": "265",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Link, Prodige Hylien",
+        "type": "Main Deck",
+        "subTypes": "Guerrier - Hylien / Prodige",
+        "cost": 5,
+        "power": 3,
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/HYRULE/Link,%20Prodige%20Hylien%20-%20GOLD.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Link, Prodige Hylien",
+    "type": "Main Deck",
+    "subTypes": "Guerrier - Hylien / Prodige",
+    "cost": 5,
+    "power": 3,
     "image": "",
     "_legal": {
       "BASE": true
@@ -2310,7 +2334,7 @@
         "type": "Main Deck",
         "subTypes": "Héros - Ganon / Ganondorf",
         "cost": "12",
-        "power": 14,
+        "power": 6,
         "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GANON/Ganondorf%2C%20Roi%20D%C3%A9mon.jpg",
         "isHorizontal": false
       }
@@ -2320,10 +2344,32 @@
     "subTypes": "Guerrier - Ganon / Ganondorf",
     "cost": 0,
     "power": "6",
-    "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GANON/Ganondorf%2C%20Roi%20D%C3%A9mon.jpg",
     "_legal": {
       "BASE": true
     }
+  },
+  "262": {
+    "id": "262",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ganondorf, Roi Démon",
+        "type": "Main Deck",
+        "subTypes": "Héros - Ganon / Ganondorf",
+        "cost": "12",
+        "power": 6,
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/GANON/Ganondorf,%20Roi%20D%C3%A9mon%20-%20GOLD.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ganondorf, Roi Démon",
+    "type": "Main Deck",
+    "subTypes": "Guerrier - Ganon / Ganondorf",
+    "cost": 0,
+    "power": "6",
+    "_legal": {
+      "BASE": true
+    }    
   },
   "97": {
     "id": "97",
@@ -2876,6 +2922,29 @@
     "_legal": {
       "BASE": true
     }
+      },
+  "261": {
+    "id": "261",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ganondorf Momifié",
+        "type": "Main Deck",
+        "subTypes": "Guerrier - Ganon / Ganondorf",
+        "cost": 2,
+        "power": 0,
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/GANON/Ganondorf%20Momifi%C3%A9%20-%20GOLD.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ganondorf Momifié",
+    "type": "Main Deck",
+    "subTypes": "Guerrier - Ganon / Ganondorf",
+    "cost": 2,
+    "power": 0,
+    "_legal": {
+      "BASE": true
+    }
   },
   "120": {
     "id": "120",
@@ -2897,6 +2966,29 @@
     "cost": 5,
     "power": 3,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GANON/Ganondorf%2C%20Roi%20Gerudo.jpg",
+    "_legal": {
+      "BASE": true
+    }
+      },
+  "260": {
+    "id": "260",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ganondorf, Roi Gerudo",
+        "type": "Main Deck",
+        "subTypes": "Guerrier - Ganon / Ganondorf",
+        "cost": 6,
+        "power": 2,
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/GANON/Ganondorf,%20Roi%20Gerudo%20-%20GOLD.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ganondorf, Roi Gerudo",
+    "type": "Main Deck",
+    "subTypes": "Guerrier - Ganon / Ganondorf",
+    "cost": 6,
+    "power": 2,
     "_legal": {
       "BASE": true
     }
@@ -2934,7 +3026,7 @@
         "type": "Main Deck",
         "subTypes": "Guerrier - Ganon / Ganondorf / Dragon",
         "cost": 15,
-        "power": 12,
+        "power": 15,
         "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GANON/Dragon%20Noir.jpg",
         "isHorizontal": false
       }
@@ -2943,8 +3035,30 @@
     "type": "Main Deck",
     "subTypes": "Guerrier - Ganon / Ganondorf / Dragon",
     "cost": 15,
-    "power": 12,
-    "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/GANON/Dragon%20Noir.jpg",
+    "power": 15,
+    "_legal": {
+      "BASE": true
+    }
+      },
+  "259": {
+    "id": "259",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dragon Noir",
+        "type": "Main Deck",
+        "subTypes": "Guerrier - Ganon / Ganondorf / Dragon",
+        "cost": 15,
+        "power": 12,
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/GANON/Dragon%20Noir%20-%20GOLD.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dragon Noir",
+    "type": "Main Deck",
+    "subTypes": "Guerrier - Ganon / Ganondorf / Dragon",
+    "cost": 15,
+    "power": 15,
     "_legal": {
       "BASE": true
     }
@@ -4417,6 +4531,29 @@
         "cost": 8,
         "power": 8,
         "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/GANON/Lynel%20Dor%C3%A9.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lynel Doré",
+    "type": "Main Deck",
+    "subTypes": "Guerrier - Ganon",
+    "cost": 8,
+    "power": 8,
+    "_legal": {
+      "BASE": true
+    }
+  },
+  "263": {
+    "id": "263",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lynel Doré",
+        "type": "Main Deck",
+        "subTypes": "Guerrier - Ganon",
+        "cost": 8,
+        "power": 8,
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/GANON/Lynel%20Dor%C3%A9%20-%20GOLD.jpg?raw=true",
         "isHorizontal": false
       }
     },
