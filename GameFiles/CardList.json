@@ -981,6 +981,30 @@
       "BASE": true
     }
   },
+    "265": {
+    "id": "265",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tour Sheikah",
+        "type": "Main Deck",
+        "subTypes": "Soutien - Sheikah",
+        "cost": 2,
+        "power": 0,
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/STAMP/Tour%20Sheikah%20-%20Cronosial.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tour Sheikah",
+    "type": "Main Deck",
+    "subTypes": "Soutien - Sheikah",
+    "cost": 2,
+    "power": 0,
+    "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/STAMP/Tour%20Sheikah%20-%20Cronosial.jpg?raw=true",
+    "_legal": {
+      "BASE": true
+    }
+  },
   "40": {
     "id": "40",
     "isToken": false,
