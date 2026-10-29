@@ -3765,7 +3765,7 @@
       "front": {
         "name": "Usine à Golem",
         "type": "Main Deck",
-        "subTypes": "Lieu - Zora",
+        "subTypes": "Lieu - Soneau",
         "cost": 3,
         "power": 0,
         "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/SONEAU/Usine%20%C3%A0%20Golem.jpg",
@@ -3774,7 +3774,7 @@
     },
     "name": "Usine à Golem",
     "type": "Main Deck",
-    "subTypes": "Lieu - Zora",
+    "subTypes": "Lieu - Soneau",
     "cost": 3,
     "power": 0,
     "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/SONEAU/Usine%20%C3%A0%20Golem.jpg",
