@@ -6168,6 +6168,29 @@
       "BASE": true
     }
   },
+  "267": {
+    "id": "249",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Règlement de Comptes",
+        "type": "Main Deck",
+        "subTypes": "Soutien - Yiga",
+        "cost": 4,
+        "power": 0,
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/STAMP/R%C3%A8glement%20de%20Comptes%20-%20Mik0%C3%AFa.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Règlement de Comptes",
+    "type": "Main Deck",
+    "subTypes": "Soutien - Yiga",
+    "cost": 4,
+    "power": 0,
+    "_legal": {
+      "BASE": true
+    }
+  },
   "250": {
     "id": "250",
     "isToken": false,
