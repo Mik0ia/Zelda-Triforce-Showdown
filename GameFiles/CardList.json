@@ -883,7 +883,7 @@
     "_legal": {
       "BASE": true
     }
-    },
+  },
   "266": {
     "id": "266",
     "isToken": false,
@@ -998,7 +998,7 @@
     "subTypes": "Soutien - Sheikah",
     "cost": 2,
     "power": 0,
-    "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/SHEIKAH/Tour%20Sheikah.jpg",
+    "image": "",
     "_legal": {
       "BASE": true
     }
