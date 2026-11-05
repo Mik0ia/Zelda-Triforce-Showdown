@@ -880,7 +880,29 @@
     "subTypes": "Soutien - Sheikah",
     "cost": 1,
     "power": 0,
-    "image": "https://raw.githubusercontent.com/Mik0ia/Zelda-Triforce-Showdown/main/CARDS/SHEIKAH/Tablette%20sheikah.jpg",
+    "_legal": {
+      "BASE": true
+    }
+    },
+  "266": {
+    "id": "266",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tablette Sheikah",
+        "type": "Main Deck",
+        "subTypes": "Soutien - Sheikah",
+        "cost": 1,
+        "power": 0,
+        "image": "https://github.com/Mik0ia/Zelda-Triforce-Showdown/blob/main/CARDS/STAMP/Tablette%20sheikah%20-%20Cronosial.jpg?raw=true",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tablette Sheikah",
+    "type": "Main Deck",
+    "subTypes": "Soutien - Sheikah",
+    "cost": 1,
+    "power": 0,
     "_legal": {
       "BASE": true
     }
